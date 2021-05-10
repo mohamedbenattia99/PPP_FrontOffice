@@ -41,11 +41,11 @@ class ProductImageSwatchesPage extends Component {
             },
             {
                 text: 'Clothing & Apparel',
-                url: '/shop',
+                url: '/boutique',
             },
             {
                 text: 'Mens',
-                url: '/shop',
+                url: '/boutique',
             },
             {
                 text: 'Sleeve Linen Blend Caro Pane Shirt',

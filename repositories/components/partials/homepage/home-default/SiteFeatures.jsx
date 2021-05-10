@@ -1,9 +1,9 @@
 import React from 'react';
 
 const SiteFeatures = () => (
-    <div className="ps-site-features">
-        <div className="ps-container">
-            <div className="ps-block--site-features">
+   <div className="ps-site-features">
+       {/* <div className="ps-container">*/}
+           {/* <div className="ps-block--site-features">
                 <div className="ps-block__item">
                     <div className="ps-block__left">
                         <i className="icon-rocket"></i>
@@ -49,8 +49,8 @@ const SiteFeatures = () => (
                         <p>Support gift service</p>
                     </div>
                 </div>
-            </div>
-        </div>
+            </div>*/}
+        {/*</div>*/}
     </div>
 );
 

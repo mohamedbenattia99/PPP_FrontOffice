@@ -114,7 +114,7 @@ class SearchHeader extends Component {
                 method="get"
                 action="/"
                 onSubmit={this.handleSubmit.bind(this)}>
-                <div className="ps-form__categories">
+               {/* <div className="ps-form__categories">
                     <select className="form-control">
                         {exampleCategories.map(option => (
                             <option value={option} key={option}>
@@ -122,14 +122,16 @@ class SearchHeader extends Component {
                             </option>
                         ))}
                     </select>
-                </div>
-                <input
+                </div>*/}
+                {/*<input
                     className="form-control"
                     type="text"
-                    placeholder="I'm shopping for..."
+                    placeholder="Je cherche..."
                     onChange={this.handleSearch.bind(this)}
-                />
+                />*/}
+{/*
                 <button onClick={this.handleSubmit.bind(this)}>Search</button>
+*/}
                 <div
                     className={`ps-panel--search-result${
                         searchPanel && searchPanel === true ? ' active ' : ''

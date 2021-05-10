@@ -1,3 +1,4 @@
+
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import Link from 'next/link';
@@ -94,3 +95,4 @@ class ConsumerElectronics extends Component {
 }
 
 export default connect(state => state.collection)(ConsumerElectronics);
+

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import CurrencyDropdown from './modules/CurrencyDropdown';
+
 import Link from 'next/link';
-import LanguageSwicher from './modules/LanguageSwicher';
+
 import MobileHeaderActions from './modules/MobileHeaderActions';
 
 class HeaderMobile extends Component {
@@ -16,7 +16,7 @@ class HeaderMobile extends Component {
                     <div className="header__left">
                         <p>Welcome to REDSYS Online Shopping Store !</p>
                     </div>
-                    <div className="header__right">
+               {/*     <div className="header__right">
                         <ul className="navigation__extra">
                             <li>
                                 <Link href="/vendor/become-a-vendor">
@@ -25,7 +25,7 @@ class HeaderMobile extends Component {
                             </li>
                             <li>
                                 <Link href="/account/order-tracking">
-                                    <a>Tract your order</a>
+                                    <a>Suivre votre commande</a>
                                 </Link>
                             </li>
                             <li>
@@ -35,7 +35,7 @@ class HeaderMobile extends Component {
                                 <LanguageSwicher />
                             </li>
                         </ul>
-                    </div>
+                    </div>*/}
                 </div>
                 <div className="navigation--mobile">
                     <div className="navigation__left">

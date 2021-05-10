@@ -56,8 +56,9 @@ body {
     padding: 0 15px;
 
     @media (max-width: 1680px) {
-        padding: 0 30px;
         max-width: 100%;
+        padding-right: 15%;
+        padding-left: 15%;
     }
     @include media('<xs') {
         padding: 0 15px;

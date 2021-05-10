@@ -26,11 +26,13 @@
 .ps-form--quick-search {
     display: flex;
     flex-flow: row nowrap;
-    position: relative;
-
+    position: absolute;
+    right: 50px;
+    top: 50px;
+    height: 30px;
 
     .ps-form__categories {
-        position: relative;
+
         background-color: #fff;
         max-width: 180px;
         vertical-align: top;
@@ -43,15 +45,14 @@
         }
         select.form-control {
             padding-right: 30px;
-            height: 40px;
             border-radius: 4px 0 0 4px;
             @include appearance(none);
+            width:70px;
         }
     }
 
     .ant-select {
         .ant-select-selection {
-            height: 42px;
             border-radius: 0;
             border: none;
             .ant-select-selection__rendered {
@@ -65,9 +66,9 @@
     .form-control {
         background-color: #fff;
         color: $color-heading;
-        height: 42px;
         border: none;
         border-radius: 0;
+        width: 150px;
     }
 
     .form-group--icon {
@@ -84,7 +85,7 @@
         border-radius: 4px 0 0 4px;
         padding: 0 10px;
         text-indent: 10px;
-        position: relative;
+
         z-index: 2;
         background-color: transparent;
         @include placeholder() {
@@ -96,8 +97,9 @@
         background-color: $color-heading;
         color: #ffffff;
         border: none;
-        font-weight: 700;
+        font-weight: 600;
         padding: 0 24px;
+        width: 80 px;
         border-radius: 0 4px 4px 0;
     }
 

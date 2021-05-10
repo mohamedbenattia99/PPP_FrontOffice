@@ -4,10 +4,10 @@ import Link from 'next/link';
 const FooterWidgets = () => (
     <div className="ps-footer__widgets">
         <aside className="widget widget_footer widget_contact-us">
-            <h4 className="widget-title">Contact us</h4>
+            <h4 className="widget-title">Contactez nous</h4>
             <div className="widget_content">
-                <p>Call us 24/7</p>
-                <h3>1800 97 97 69</h3>
+
+                <h3>+216 </h3>
                 <p>
                     502 New Design Str, Melbourne, Australia <br />
                     <a href="mailto:contact@REDSYS.co">contact@REDSYS.co</a>

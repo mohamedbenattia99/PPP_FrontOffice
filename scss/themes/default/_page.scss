@@ -1,9 +1,8 @@
 #homepage-1 {
     .ps-home-banner {
-        padding-top: 30px;
-        margin-bottom: 30px;
 
         .ps-container {
+        padding: 0px 0px;
             display: flex;
             flex-flow: row nowrap;
 
@@ -11,30 +10,27 @@
                 width: 100%;
             }
 
-            .ps-section__left {
-                padding-right: 30px;
-                max-width: calc(100% - 390px);
-            }
 
-            .ps-section__right {
-                max-width: 390px;
 
-                .ps-collection {
-                    display: block;
-                    margin-bottom: 30px;
-
-                    &:last-child {
-                        margin-bottom: 0;
-                    }
-                }
-            }
+            //.ps-section__right {
+            //    max-width: 390px;
+            //
+            //    .ps-collection {
+            //        display: block;
+            //        margin-bottom: 30px;
+            //
+            //        &:last-child {
+            //            margin-bottom: 0;
+            //        }
+            //    }
+            //}
 
             @include media('<lg') {
                 display: block;
                 .ps-section__left {
                     max-width: 100%;
                     margin-bottom: 10px;
-                    padding-right: 0;
+                    alignment: center;
                 }
 
                 .ps-section__right {
@@ -63,14 +59,11 @@
     }
 
     .ps-site-features {
-        padding-bottom: 90px;
-        @media screen and (max-width: 480px) {
-
-        }
+       height: 0px;
     }
 
     .ps-deal-of-day {
-        padding-bottom: 80px;
+        height: 0px;
         .slick-slide {
             > div {
                 margin: 0 8px;
@@ -97,22 +90,48 @@
     }
 
     .ps-top-categories {
-        padding: 80px 0 50px;
+        padding-left: 15%;
+        padding-right: 15%;
 
         h3 {
-            text-transform: capitalize;
+            text-align: center;
+            font-family: Helvetica, sans-serif;
+            font-weight: 300;
+            font-style: normal;
+            margin: 0 0 0.5em;
+            line-height: 1.4;
+            text-rendering: optimizeLegibility;
         }
 
         @media (min-width: 1440px) {
+
             .row {
                 .col-xl-2 {
-                    max-width: calc(100% / 8);
+                    flex: 0 0 50%;
+                    max-width: 50%;
+                }
+            }
+        }
+        @media (min-width: 768px) {
+            .row {
+                .col-xl-2 {
+                    flex: 0 0 50%;
+                    max-width: 50%;
+                }
+            }
+        }
+        @media (min-width: 992px) {
+
+            .row {
+                .col-xl-2 {
+                    flex: 0 0 50%;
+                    max-width: 50%;
                 }
             }
         }
 
         @include media('<lg') {
-            padding: 60px 0;
+            padding: 0px 0;
         }
 
         @include media('<md') {

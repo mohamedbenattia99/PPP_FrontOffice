@@ -37,7 +37,7 @@ class ProductWidgets extends Component{
                     </p>
                 </aside>
                 <aside className="widget widget_ads">
-                    <Link href="/shop">
+                    <Link href="/boutique">
                         <a>
                             <img src="/static/img/ads/product-ads.png" alt="REDSYS" />
                         </a>

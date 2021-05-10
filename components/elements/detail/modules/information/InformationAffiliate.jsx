@@ -55,7 +55,7 @@ class InformationAffiliate extends Component {
                 <div className="ps-product__meta">
                     <p>
                         Brand:
-                        <Link href="/shop">
+                        <Link href="/boutique">
                             <a className="ml-2 text-capitalize">{product.vendor}</a>
                         </Link>
                     </p>
@@ -82,7 +82,7 @@ class InformationAffiliate extends Component {
                 <div className="ps-product__desc">
                     <p>
                         Sold By:
-                        <Link href="/shop">
+                        <Link href="/boutique">
                             <a>
                                 <strong> {product.vendor}</strong>
                             </a>
@@ -132,25 +132,25 @@ class InformationAffiliate extends Component {
                     </p>
                     <p className="categories">
                         <strong> Categories:</strong>
-                        <Link href="/shop">
+                        <Link href="/boutique">
                             <a>Consumer Electronics</a>
                         </Link>
-                        <Link href="/shop">
+                        <Link href="/boutique">
                             <a>Refrigerator</a>
                         </Link>
-                        <Link href="/shop">
+                        <Link href="/boutique">
                             <a>Babies & Moms</a>
                         </Link>
                     </p>
                     <p className="tags">
                         <strong> Tags</strong>
-                        <Link href="/shop">
+                        <Link href="/boutique">
                             <a>sofa</a>
                         </Link>
-                        <Link href="/shop">
+                        <Link href="/boutique">
                             <a>technologies</a>
                         </Link>
-                        <Link href="/shop">
+                        <Link href="/boutique">
                             <a>wireless</a>
                         </Link>
                     </p>

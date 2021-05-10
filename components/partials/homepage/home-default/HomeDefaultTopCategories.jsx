@@ -4,10 +4,12 @@ import Link from 'next/link';
 const HomeDefaultTopCategories = () => (
     <div className="ps-top-categories">
         <div className="ps-container">
-            <h3>Top categories of the month</h3>
+            <h3>CATEGORIES</h3>
             <div className="row">
+{/*
                 <div className="col-xl-2 col-lg-3 col-md-4 col-sm-4 col-6 ">
-                    <div className="ps-block--category">
+*/}
+                 {/*   <div className="ps-block--category">
                         <Link href="/shop">
                             <a className="ps-block__overlay"></a>
                         </Link>
@@ -40,8 +42,8 @@ const HomeDefaultTopCategories = () => (
                         </Link>
                         <img src="/static/img/categories/4.jpg" alt="REDSYS" />
                         <p>Home & Kitchen</p>
-                    </div>
-                </div>
+                    </div>*/}
+                {/*</div>*/}
                 <div className="col-xl-2 col-lg-3 col-md-4 col-sm-4 col-6 ">
                     <div className="ps-block--category">
                         <Link href="/shop">

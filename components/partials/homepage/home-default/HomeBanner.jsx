@@ -48,16 +48,16 @@ class HomeBanner extends Component {
                             ''
                         )}
                     </div>
-                    <div className="ps-section__right">
-                        <Promotion
-                            link="/shop"
-                            image={promotion1 ? promotion1.image : null}
-                        />
-                        <Promotion
-                            link="/shop"
-                            image={promotion2 ? promotion2.image : null}
-                        />
-                    </div>
+                    {/*<div className="ps-section__right">*/}
+                    {/*    <Promotion*/}
+                    {/*        link="/shop"*/}
+                    {/*        image={promotion1 ? promotion1.image : null}*/}
+                    {/*    />*/}
+                    {/*    <Promotion*/}
+                    {/*        link="/shop"*/}
+                    {/*        image={promotion2 ? promotion2.image : null}*/}
+                    {/*    />*/}
+                    {/*</div>*/}
                 </div>
             </div>
         );

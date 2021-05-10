@@ -2,8 +2,8 @@ import React from 'react';
 
 const MarketPlaceSiteFeatures = () => (
     <div className="ps-site-features">
-        <div className="container">
-            <div className="ps-block--site-features ps-block--site-features-2">
+        {/*<div className="container"*/}
+            {/*<div className="ps-block--site-features ps-block--site-features-2">
                 <div className="ps-block__item">
                     <div className="ps-block__left">
                         <i className="icon-rocket"></i>
@@ -40,8 +40,8 @@ const MarketPlaceSiteFeatures = () => (
                         <p>Dedicated support</p>
                     </div>
                 </div>
-            </div>
-        </div>
+            </div>*/}
+      {/*  </div>*/}
     </div>
 );
 

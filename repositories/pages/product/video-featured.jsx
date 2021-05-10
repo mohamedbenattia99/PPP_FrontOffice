@@ -42,11 +42,11 @@ class ProductMultiVendorPage extends Component {
             },
             {
                 text: 'Consumer Electrics',
-                url: '/shop',
+                url: '/boutique',
             },
             {
                 text: 'Refrigerators',
-                url: '/shop',
+                url: '/boutique',
             },
             {
                 text: 'Marshall Kilburn Portable Wireless Speaker',

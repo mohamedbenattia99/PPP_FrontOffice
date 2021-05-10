@@ -116,7 +116,7 @@ const FooterWidgets = () => (
                     </Link>
                 </li>
                 <li>
-                    <Link href="/shop">
+                    <Link href="/boutique">
                         <a>Shop</a>
                     </Link>
                 </li>

@@ -67,6 +67,8 @@
 
     a {
         @include max-area();
+        height:100px;
+        width:150px;
     }
 
     p {
@@ -2163,6 +2165,7 @@
             a {
                 display: block;
                 font-size: 14px;
+                color: #353535;
             }
         }
     }
@@ -2183,6 +2186,7 @@
         display: block;
         margin-bottom: 20px;
         border-bottom: 1px solid #ccc;
+        color: black;
 
         p {
             font-size: 16px;
@@ -2568,7 +2572,7 @@
     display: block;
 
     img {
-        width: 100%;
+        width: 0%;
     }
 
     @include media('<sm') {

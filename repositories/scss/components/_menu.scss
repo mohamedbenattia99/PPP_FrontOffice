@@ -303,51 +303,51 @@
     }
 }
 
-.menu--product-categories {
-    position: relative;
-    height: 100%;
-
-    .menu__toggle {
-        position: relative;
-        height: 100%;
-        display: flex;
-        flex-flow: row nowrap;
-        align-items: center;
-        cursor: pointer;
-
-        i {
-            font-size: 20px;
-            margin-right: 10px;
-        }
-
-        span {
-            font-size: 20px;
-            color: $color-heading;
-            font-size: 16px;
-            font-weight: 600;
-        }
-
-        &:before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 1px;
-            background-color: $color-heading;
-            transition: transform 0.75s $timing-1;
-            @include transform(scale3d(0, 1, 1));
-            @include transform-origin(100% 50%);
-        }
-
-        &:hover,
-        &.active {
-            &:before {
-                @include transform-origin(0 50%);
-                @include transform(scale3d(1, 1, 1));
-            }
-        }
-    }
+//.menu--product-categories {
+//    position: relative;
+//    height: 100%;
+//
+//    .menu__toggle {
+//        position: relative;
+//        height: 100%;
+//        display: flex;
+//        flex-flow: row nowrap;
+//        align-items: center;
+//        cursor: pointer;
+//
+//        i {
+//            font-size: 20px;
+//            margin-right: 10px;
+//        }
+//
+//        span {
+//            font-size: 20px;
+//            color: $color-heading;
+//            font-size: 16px;
+//            font-weight: 600;
+//        }
+//
+//        &:before {
+//            content: '';
+//            position: absolute;
+//            top: 0;
+//            left: 0;
+//            width: 100%;
+//            height: 1px;
+//            background-color: $color-heading;
+//            transition: transform 0.75s $timing-1;
+//            @include transform(scale3d(0, 1, 1));
+//            @include transform-origin(100% 50%);
+//        }
+//
+//        &:hover,
+//        &.active {
+//            &:before {
+//                @include transform-origin(0 50%);
+//                @include transform(scale3d(1, 1, 1));
+//            }
+//        }
+//    }
 
     .menu__content {
         position: absolute;

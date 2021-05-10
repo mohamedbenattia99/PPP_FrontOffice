@@ -2,12 +2,12 @@
     "menuPrimary": {
         "menu_1": [
             {
-                "text": "Home",
+                "text": "Acceuil",
                 "url": "/"
             },
             {
-                "text": "Shop",
-                "url": "/shop",
+                "text": "Boutique",
+                "url": "/boutique",
                 "extraClass": "menu-item-has-children has-mega-menu",
                 "subClass": "sub-menu",
                 "mega": "true",
@@ -17,7 +17,7 @@
                         "megaItems": [
                             {
                                 "text": "Shop Default",
-                                "url": "/shop"
+                                "url": "/boutique"
                             },
                             {
                                 "text": "Shop Without Banner",
@@ -107,7 +107,7 @@
                 ]
             },
             {
-                "text": "Pages",
+                "text": "Personnaliser",
                 "url": "",
                 "extraClass": "menu-item-has-children has-mega-menu",
                 "subClass": "sub-menu",

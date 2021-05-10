@@ -115,13 +115,13 @@ class SearchHeader extends Component {
                 action="/"
                 onSubmit={this.handleSubmit.bind(this)}>
                 <div className="ps-form__categories">
-                    <select className="form-control">
+                    {/*<select className="form-control">
                         {exampleCategories.map(option => (
                             <option value={option} key={option}>
                                 {option}
                             </option>
                         ))}
-                    </select>
+                    </select>*/}
                 </div>
                 <input
                     className="form-control"

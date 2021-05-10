@@ -1,11 +1,17 @@
 import React, { Component } from 'react';
+/*
 import CountDownSimple from '../../../elements/CountDownSimple';
 import Link from 'next/link';
 import Product from '../../../elements/products/Product';
 import Slider from 'react-slick';
+*/
+/*
 import { carouselStandard } from '../../../../utilities/carousel-helpers';
+*/
 import { connect } from 'react-redux';
+/*
 import { getColletionBySlug } from '../../../../utilities/product-helper';
+*/
 
 class MarketPlaceDealOfDay extends Component {
     constructor(props) {
@@ -13,11 +19,11 @@ class MarketPlaceDealOfDay extends Component {
     }
 
     render() {
-        const { collections, collectionSlug } = this.props;
-        const products = getColletionBySlug(collections, collectionSlug);
+     /*   const { collections, collectionSlug } = this.props;*/
+       /* const products = getColletionBySlug(collections, collectionSlug);*/
         return (
             <div className="ps-deal-of-day">
-                <div className="ps-container">
+               {/* <div className="ps-container">
                     <div className="ps-section__header">
                         <div className="ps-block--countdown-deal">
                             <div className="ps-block__left">
@@ -33,7 +39,7 @@ class MarketPlaceDealOfDay extends Component {
                                 </figure>
                             </div>
                         </div>
-                        <Link href="/shop">
+                        <Link href="/boutique">
                             <a>View all</a>
                         </Link>
                     </div>
@@ -46,7 +52,7 @@ class MarketPlaceDealOfDay extends Component {
                             ))}
                         </Slider>
                     </div>
-                </div>
+                </div>*/}
             </div>
         );
     }

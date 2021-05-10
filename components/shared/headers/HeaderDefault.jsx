@@ -1,8 +1,14 @@
 import React, { Component } from 'react';
+/*
 import Link from 'next/link';
+*/
 import NavigationDefault from '../navigation/NavigationDefault';
+/*
 import HeaderActions from './modules/HeaderActions';
+*/
+/*
 import MenuCategories from './modules/MenuCategories';
+*/
 import SearchHeader from './modules/SearchHeader';
 import { stickyHeader } from '../../../utilities/common-helpers';
 
@@ -26,30 +32,30 @@ class HeaderDefault extends Component {
                 <div className="header__top">
                     <div className="ps-container">
                         <div className="header__left">
-                            <Link href="/">
+                           {/* <Link href="/">
                                 <a className="ps-logo">
                                     <img
                                         src="/static/img/logo_light.png"
                                         alt="CONCEPT"
                                     />
                                 </a>
-                            </Link>
-                            <div className="menu--product-categories">
-                                <div className="menu__toggle">
-                                    <i className="icon-menu"></i>
-                                    <span> Shop by Department</span>
-                                </div>
-                                <div className="menu__content">
-                                    <MenuCategories />
-                                </div>
-                            </div>
+                            </Link>*/}
+                            {/*<div className="menu--product-categories">*/}
+                            {/*    <div className="menu__toggle">*/}
+                            {/*        <i className="icon-menu"></i>*/}
+                            {/*        <span> Shop by Department</span>*/}
+                            {/*    </div>*/}
+                            {/*    <div className="menu__content">*/}
+                            {/*        <MenuCategories />*/}
+                            {/*    </div>*/}
+                            {/*</div>*/}
                         </div>
                         <div className="header__center">
                             <SearchHeader />
                         </div>
-                        <div className="header__right">
+                       {/* <div className="header__right">
                             <HeaderActions />
-                        </div>
+                        </div>*/}
                     </div>
                 </div>
                 <NavigationDefault />

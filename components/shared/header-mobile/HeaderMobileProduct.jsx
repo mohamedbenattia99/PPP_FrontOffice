@@ -20,7 +20,7 @@ class HeaderMobileProduct extends React.Component {
                 data-sticky="true">
                 <div className="navigation--mobile">
                     <div className="navigation__left">
-                        <Link href="/shop">
+                        <Link href="/boutique">
                             <a
                                 href="/"
                                 className="header__back"

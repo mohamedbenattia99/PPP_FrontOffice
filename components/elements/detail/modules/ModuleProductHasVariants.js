@@ -224,7 +224,7 @@ class ModuleProductHasVariants extends Component {
                     <div className="ps-product__meta">
                         <p>
                             Brand:
-                            <Link href="/shop">
+                            <Link href="/boutique">
                                 <a className="ml-2 text-capitalize">
                                     {product.vendor}
                                 </a>

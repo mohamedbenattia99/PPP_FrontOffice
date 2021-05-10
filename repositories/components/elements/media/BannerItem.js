@@ -5,7 +5,7 @@ import { baseUrl } from '../../../repositories/Repository';
 const BannerItem = ({ source }) => {
     if (source) {
         return (
-            <Link href="/shop">
+            <Link href="/boutique">
                 <a>
                     <img src={`${baseUrl}${source.image.url}`} alt="REDSYS" />
                 </a>
@@ -13,7 +13,7 @@ const BannerItem = ({ source }) => {
         );
     } else {
         return (
-            <Link href="/shop">
+            <Link href="/boutique">
                 <a>
                     <a className="ps-collection">
                         <img src="/static/img/not-found.jpg" alt="REDSYS" />

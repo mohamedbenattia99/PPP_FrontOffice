@@ -63,17 +63,17 @@ const PartialReview = () => (
                     <textarea
                         className="form-control"
                         rows="6"
-                        placeholder="Write your review here"></textarea>
+                        placeholder="Ecrire votre avis ici!"></textarea>
                 </div>
                 <div className="row">
                     <div className="col-xl-6 col-lg-6 col-md-6 col-sm-12  ">
                         <div className="form-group">
-                            <input className="form-control" type="text" placeholder="Your Name" />
+                            <input className="form-control" type="text" placeholder="Votre nom" />
                         </div>
                     </div>
                     <div className="col-xl-6 col-lg-6 col-md-6 col-sm-12  ">
                         <div className="form-group">
-                            <input className="form-control" type="email" placeholder="Your Email" />
+                            <input className="form-control" type="email" placeholder="Votre Email" />
                         </div>
                     </div>
                 </div>

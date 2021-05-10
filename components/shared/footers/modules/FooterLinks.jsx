@@ -1,3 +1,4 @@
+/*
 import React from 'react';
 import Link from 'next/link';
 const Links = {
@@ -172,11 +173,12 @@ const Links = {
             text: 'Wireless Speaker',
             url: '/shop'
         }
-    ]
+        ]
+
 };
 
 const FooterLinks = () => (
-    <div className="ps-footer__links">
+ <div className="ps-footer__links">
         <p>
             <strong>Consumer Electric:</strong>
             {Links.consumerElectric.map(item => (
@@ -229,3 +231,4 @@ const FooterLinks = () => (
 );
 
 export default FooterLinks;
+*/

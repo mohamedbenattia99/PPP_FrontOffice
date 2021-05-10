@@ -1,176 +1,176 @@
-import React from 'react';
+/*import React from 'react';
 import Link from 'next/link';
 const Links = {
-    consumerElectric: [
+   consumerElectric: [
         {
             text: 'Air Conditioners',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Audios & Theaters',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Car Electronics',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Office Electronics',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'TV Televisions',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Washing Machines',
-            url: '/shop'
+            url: '/boutique'
         }
     ],
     clothingAndApparel: [
         {
             text: 'Printers',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Projectors',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Scanners',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Store &amp; Business',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: '4K Ultra HD TVs',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'LED TVs',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'OLED TVs',
-            url: '/shop'
+            url: '/boutique'
         }
     ],
     gardenAndKitchen: [
         {
             text: 'Cookware',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Decoration',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Furniture',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Garden Tools',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Garden Equipments',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Powers And Hand Tools',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Utensil & Gadget',
-            url: '/shop'
+            url: '/boutique'
         }
     ],
     healthAndBeauty: [
         {
             text: 'Hair Care',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Decoration',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Makeup',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Body Shower',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Skin Care',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Cologine',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Perfume',
-            url: '/shop'
+            url: '/boutique'
         }
     ],
     jewelryAndWatch: [
         {
             text: 'Necklace',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Pendant',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Diamond Ring',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Sliver Earing',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Leather Watcher',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Gucci',
-            url: '/shop'
+            url: '/boutique'
         }
     ],
     computerAndTechnology: [
         {
             text: 'Desktop PC',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Laptop',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Smartphones',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Tablet',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Game Controller',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Audio & Video',
-            url: '/shop'
+            url: '/boutique'
         },
         {
             text: 'Wireless Speaker',
-            url: '/shop'
+            url: '/boutique'
         }
     ]
 };
@@ -228,4 +228,4 @@ const FooterLinks = () => (
     </div>
 );
 
-export default FooterLinks;
+export default FooterLinks;*/

@@ -1,23 +1,23 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 
-import CountDownSimple from '../../../elements/CountDownSimple';
+/*import CountDownSimple from '../../../elements/CountDownSimple';
 import Link from 'next/link';
 import Slider from 'react-slick';
 import ProductDealOfDay from '../../../elements/products/ProductDealOfDay';
 import { carouselFullwidth } from '../../../../utilities/carousel-helpers';
-import { getColletionBySlug } from '../../../../utilities/product-helper';
+import { getColletionBySlug } from '../../../../utilities/product-helper';*/
 
 class HomeDefaultDealOfDay extends Component {
     constructor(props) {
         super(props);
     }
     render() {
-        const { collections, collectionSlug } = this.props;
-        const products = getColletionBySlug(collections, collectionSlug);
+      /*  const { collections, collectionSlug } = this.props;*/
+      /*  const products = getColletionBySlug(collections, collectionSlug);*/
         return (
             <div className="ps-deal-of-day">
-                <div className="ps-container">
+                {/*<div className="ps-container">
                     <div className="ps-section__header">
                         <div className="ps-block--countdown-deal">
                             <div className="ps-block__left">
@@ -49,7 +49,7 @@ class HomeDefaultDealOfDay extends Component {
                             ))}
                         </Slider>
                     </div>
-                </div>
+                </div>*/}
             </div>
         );
     }

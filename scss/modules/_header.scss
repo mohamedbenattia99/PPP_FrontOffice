@@ -48,6 +48,9 @@
         display: flex;
         align-items: center;
         justify-content: flex-end;
+        top: 5px;
+        position: absolute;
+
 
         > * {
             margin: 0 20px;
@@ -72,9 +75,10 @@
     }
 
     .header__top {
-        padding: 25px 0;
+        padding: 15px 0px 10px 200px;
         background-color: $color-1st;
-        border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+
+
 
         .ps-container,
         .container {
@@ -94,17 +98,17 @@
     }
 
     &.header--sticky {
-        .menu--product-categories {
-            .menu__toggle {
-                i {
-                    font-size: 30px;
-                }
-
-                span {
-                    font-size: 16px;
-                }
-            }
-        }
+        //.menu--product-categories {
+        //    .menu__toggle {
+        //        i {
+        //            font-size: 30px;
+        //        }
+        //
+        //        span {
+        //            font-size: 16px;
+        //        }
+        //    }
+        //}
 
         .header__top {
             position: fixed;
@@ -260,13 +264,13 @@
         max-width: 600px;
     }
 
-    .menu--product-categories {
-        .menu__toggle {
-            i {
-                font-size: 30px;
-            }
-        }
-    }
+    //.menu--product-categories {
+    //    .menu__toggle {
+    //        i {
+    //            font-size: 30px;
+    //        }
+    //    }
+    //}
 
     .ps-form--quick-search {
         width: 600px;
@@ -296,15 +300,15 @@
     .header__content {
         padding: 20px 0;
 
-        .menu--product-categories {
-            .menu__toggle {
-                &:hover {
-                    &:before {
-                        display: none;
-                    }
-                }
-            }
-        }
+        //.menu--product-categories {
+        //    .menu__toggle {
+        //        &:hover {
+        //            &:before {
+        //                display: none;
+        //            }
+        //        }
+        //    }
+        //}
 
         .container {
             display: flex;

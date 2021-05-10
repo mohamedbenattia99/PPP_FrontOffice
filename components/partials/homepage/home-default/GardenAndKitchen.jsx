@@ -1,3 +1,4 @@
+
 import React, { Component } from 'react';
 import Link from 'next/link';
 import Slider from 'react-slick';
@@ -98,3 +99,4 @@ class GardenAndKitchen extends Component {
 }
 
 export default connect(state => state.collection)(GardenAndKitchen);
+

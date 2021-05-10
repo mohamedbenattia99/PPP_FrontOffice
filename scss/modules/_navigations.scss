@@ -8,7 +8,7 @@
         flex-flow: row nowrap;
 
         > * {
-            width: 100%;
+
         }
     }
 
@@ -28,7 +28,7 @@
                 background-color: #000;
             }
 
-            a {
+            a { font-style: italic;
                 color: white;
             }
 
@@ -51,7 +51,12 @@
     }
 
     .navigation__left {
-        max-width: 260px;
+        width: 60%;
+        > a img{
+            height: 60%;
+            padding-top: 20px;
+        }
+
     }
 
     .navigation__right {
@@ -59,7 +64,7 @@
         flex-flow: row nowrap;
         justify-content: space-between;
         align-items: center;
-        padding-left: 35px;
+
     }
 }
 

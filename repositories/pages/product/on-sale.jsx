@@ -43,11 +43,11 @@ class ProductOnSalePage extends Component {
             },
             {
                 text: 'Health & Beauty',
-                url: '/shop',
+                url: '/boutique',
             },
             {
                 text: 'Equipments',
-                url: '/shop',
+                url: '/boutique',
             },
             {
                 text: 'Baxter Care Hair Kit For Bearded Mens',

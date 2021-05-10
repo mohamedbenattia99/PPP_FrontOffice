@@ -36,7 +36,7 @@ class PanelCategories extends Component {
                 onOpenChange={this.onOpenChange}>
                 {categories.map(category => (
                     <Menu.Item key={category.id}>
-                        <a href={`/shop?category=${category.slug}`}>
+                        <a href={`/boutique?category=${category.slug}`}>
                             {category.name}
                         </a>
                     </Menu.Item>
