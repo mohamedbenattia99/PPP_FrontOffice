@@ -8,7 +8,6 @@
         flex-flow: row nowrap;
 
         > * {
-
         }
     }
 
@@ -28,7 +27,8 @@
                 background-color: #000;
             }
 
-            a { font-style: italic;
+            a {
+                font-style: italic;
                 color: white;
             }
 
@@ -52,11 +52,10 @@
 
     .navigation__left {
         width: 60%;
-        > a img{
+        > a img {
             height: 60%;
             padding-top: 20px;
         }
-
     }
 
     .navigation__right {
@@ -64,7 +63,6 @@
         flex-flow: row nowrap;
         justify-content: space-between;
         align-items: center;
-
     }
 }
 
@@ -77,6 +75,14 @@
         height: 40px;
         i {
             @include center;
+        }
+    }
+
+    .navigation__left {
+        width: 40%;
+        > a img {
+            height: 60%;
+            padding-top: 20px;
         }
     }
 
@@ -156,7 +162,6 @@
     .navigation__content {
         padding-top: 10px;
         padding-bottom: 70px;
-
     }
 
     .header__actions {

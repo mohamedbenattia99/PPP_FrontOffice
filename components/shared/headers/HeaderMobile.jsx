@@ -12,11 +12,11 @@ class HeaderMobile extends Component {
     render() {
         return (
             <header className="header header--mobile">
-                <div className="header__top">
+                {/*<div className="header__top">
                     <div className="header__left">
                         <p>Welcome to REDSYS Online Shopping Store !</p>
                     </div>
-               {/*     <div className="header__right">
+                    <div className="header__right">
                         <ul className="navigation__extra">
                             <li>
                                 <Link href="/vendor/become-a-vendor">
@@ -35,8 +35,8 @@ class HeaderMobile extends Component {
                                 <LanguageSwicher />
                             </li>
                         </ul>
-                    </div>*/}
-                </div>
+                    </div>
+                </div>*/}
                 <div className="navigation--mobile">
                     <div className="navigation__left">
                         <Link href="/">

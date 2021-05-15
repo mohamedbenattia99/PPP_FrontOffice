@@ -4,7 +4,7 @@ import Head from 'next/head';
 
 const StyleSheets = () => (
     <Head>
-        <title>REDSYS</title>
+        <title>CONCEPTIA</title>
         <link rel="shortcut icon" href="/static/img/favi.png" />
         <link rel="icon" href="/static/img/favi.png" sizes="32x32" />
         <link rel="icon" href="/static/img/favi.png" sizes="192x192" />

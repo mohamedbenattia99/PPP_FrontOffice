@@ -54,13 +54,13 @@ class NavigationDefault extends Component {
                             data={menuData.menuPrimary.menu_1}
                             className="menu"
                         />
-                        <ul className="navigation__extra">
-                            {/*<li>
+                        {/*<ul className="navigation__extra">
+                            <li>
                                 <Link href="/account/order-tracking">
                                     <a>Suivre votre commande</a>
                                 </Link>
-                            </li>*/}
-                        </ul>
+                            </li>
+                        </ul>*/}
                     </div>
                 </div>
             </nav>

@@ -200,7 +200,7 @@
             }
         }
     }
-    
+
     .ant-slider {
         .ant-slider-rail {
             background-color: #e4e4e4;
@@ -327,7 +327,7 @@
     .widget-title {
         font-size: 16px;
         margin-bottom: 30px;
-        color: $color-heading;
+        color: #fff;
         font-weight: 600;
     }
 }
@@ -336,6 +336,9 @@
     .widget_content {
         h3 {
             color: white;
+        }
+        p {
+            color: #fff;
         }
 
         .ps-list--social {

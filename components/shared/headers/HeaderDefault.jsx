@@ -29,9 +29,9 @@ class HeaderDefault extends Component {
                 className="header header--1"
                 data-sticky="true"
                 id="headerSticky">
-                <div className="header__top">
-                    <div className="ps-container">
-                        <div className="header__left">
+                {/*<div className="header__top">*/}
+                    {/*<div className="ps-container">*/}
+                        {/*<div className="header__left">*/}
                            {/* <Link href="/">
                                 <a className="ps-logo">
                                     <img
@@ -49,15 +49,15 @@ class HeaderDefault extends Component {
                             {/*        <MenuCategories />*/}
                             {/*    </div>*/}
                             {/*</div>*/}
-                        </div>
-                        <div className="header__center">
+                        {/*</div>*/}
+                        {/*<div className="header__center">
                             <SearchHeader />
-                        </div>
+                        </div>*/}
                        {/* <div className="header__right">
                             <HeaderActions />
                         </div>*/}
-                    </div>
-                </div>
+                    {/*</div>*/}
+                {/*</div>  */}
                 <NavigationDefault />
             </header>
         );
