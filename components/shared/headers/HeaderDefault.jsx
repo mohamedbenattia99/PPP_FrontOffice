@@ -3,9 +3,9 @@ import React, { Component } from 'react';
 import Link from 'next/link';
 */
 import NavigationDefault from '../navigation/NavigationDefault';
-/*
+
 import HeaderActions from './modules/HeaderActions';
-*/
+
 /*
 import MenuCategories from './modules/MenuCategories';
 */
@@ -27,11 +27,10 @@ class HeaderDefault extends Component {
         return (
             <header
                 className="header header--1"
-                data-sticky="true"
-                id="headerSticky">
-                {/*<div className="header__top">*/}
-                    {/*<div className="ps-container">*/}
-                        {/*<div className="header__left">*/}
+                data-sticky="true">
+                <div className="header__top">
+                    <div className="ps-container">
+                        <div className="header__left">
                            {/* <Link href="/">
                                 <a className="ps-logo">
                                     <img
@@ -49,15 +48,15 @@ class HeaderDefault extends Component {
                             {/*        <MenuCategories />*/}
                             {/*    </div>*/}
                             {/*</div>*/}
-                        {/*</div>*/}
-                        {/*<div className="header__center">
-                            <SearchHeader />
-                        </div>*/}
-                       {/* <div className="header__right">
+                        </div>
+                        <div className="header__center">
+                            {/*<SearchHeader />*/}
+                        </div>
+                       <div className="header__right">
                             <HeaderActions />
-                        </div>*/}
-                    {/*</div>*/}
-                {/*</div>  */}
+                        </div>
+                    </div>
+                </div> 
                 <NavigationDefault />
             </header>
         );

@@ -14,7 +14,7 @@ class HeaderActions extends Component {
         const { compare, wishlist, auth } = this.props;
         return (
             <div className="header__actions">
-                <Link href="/account/compare">
+                {/*<Link href="/account/compare">
                     <a className="header__extra">
                         <i className="icon-chart-bars"></i>
                         <span>
@@ -33,7 +33,7 @@ class HeaderActions extends Component {
                             <i>{wishlist.wishlistTotal}</i>
                         </span>
                     </a>
-                </Link>
+                                </Link>*/}
                 <MiniCart />
                 {auth.isLoggedIn && Boolean(auth.isLoggedIn) === true ? (
                     <AccountQuickLinks isLoggedIn={true} />

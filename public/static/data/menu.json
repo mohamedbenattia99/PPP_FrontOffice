@@ -7,17 +7,29 @@
             },
             {
                 "text": "Boutique",
-                "url": "/boutique",
+                "url": "/shop",
                 "extraClass": "menu-item-has-children has-mega-menu",
                 "subClass": "sub-menu",
                 "mega": "true",
                 "megaContent": [
                     {
-                        "heading": "Catalog Pages",
+                        "heading": "Catégories",
                         "megaItems": [
                             {
-                                "text": "Shop Default",
-                                "url": "/boutique"
+                                "text": "Health & Beauty",
+                                "url": "/shop?category=health-and-beauty"
+                            },
+                            {
+                                "text": "Phone & Accessories",
+                                "url": "/shop?category=phones-and-accessories"
+                            },
+                            {
+                                "text": "Clothing & Apparel",
+                                "url": "/shop?category=clothing-and-parel"
+                            },
+                            {
+                                "text": "Jewelry & Watches",
+                                "url": "/shop?category=jewelry-and-watches"
                             },
                             {
                                 "text": "Shop Without Banner",

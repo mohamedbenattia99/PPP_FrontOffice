@@ -68,7 +68,7 @@ class ShopDefaultPage extends React.Component {
                     <BreadCrumb breacrumb={breadCrumb} layout="fullwidth" />
                     <div className="ps-container">
                         <ShopBanner />
-                        <ShopBrands />
+                        {/*<ShopBrands />*/}
                         <ShopCategories />
                         <div className="ps-layout--shop">
                             <ShopWidget />
