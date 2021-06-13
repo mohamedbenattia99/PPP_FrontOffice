@@ -3,10 +3,8 @@ import React, { Component } from 'react';
 import Slider from 'react-slick';
 import NextArrow from '../../../elements/carousel/NextArrow';
 import PrevArrow from '../../../elements/carousel/PrevArrow';
-import Link from 'next/link';
 import { connect } from 'react-redux';
 import { getItemBySlug } from '../../../../utilities/product-helper';
-import Promotion from '../../../elements/media/Promotion';
 import BannerItem from '../../../elements/media/BannerItem';
 
 class HomeBanner extends Component {
@@ -48,16 +46,6 @@ class HomeBanner extends Component {
                             ''
                         )}
                     </div>
-                    {/*<div className="ps-section__right">*/}
-                    {/*    <Promotion*/}
-                    {/*        link="/shop"*/}
-                    {/*        image={promotion1 ? promotion1.image : null}*/}
-                    {/*    />*/}
-                    {/*    <Promotion*/}
-                    {/*        link="/shop"*/}
-                    {/*        image={promotion2 ? promotion2.image : null}*/}
-                    {/*    />*/}
-                    {/*</div>*/}
                 </div>
             </div>
         );

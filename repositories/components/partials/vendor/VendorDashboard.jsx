@@ -6,7 +6,7 @@ const VendorDashboard = () => (
             <div className="ps-section__header">
                 <h3>Vendor Dasboard Free</h3>
                 <p>
-                    Designed base on WC Vendor Plugin. REDSYS also fully
+                    Designed base on WC Vendor Plugin. EASYCHIC also fully
                     comptatiable with other popular plugins as Dokan, YITH, etc
                     .Can help you turns your site into multi-vendor eCommerce
                     site.
@@ -96,7 +96,7 @@ const VendorDashboard = () => (
                                         <td>Nov 4, 2019</td>
                                         <td>
                                             <a href="#">
-                                                Marshall Kilburn Portable
+                                                Hugo Boss Kilburn Portable
                                                 Wireless Bluetooth Spe...
                                             </a>
                                         </td>

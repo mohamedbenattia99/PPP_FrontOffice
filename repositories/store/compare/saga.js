@@ -24,7 +24,7 @@ const modalWarning = type => {
 function* getCompareListSaga() {
     try {
         const localCompareList = JSON.parse(
-            localStorage.getItem('persist:REDSYS')
+            localStorage.getItem('persist:EASYCHIC')
         ).cart;
         yield put(getCompareListSuccess(localCompareList));
     } catch (err) {
@@ -36,7 +36,7 @@ function* addItemSaga(payload) {
     try {
         const { product } = payload;
         let localCompare = JSON.parse(
-            JSON.parse(localStorage.getItem('persist:REDSYS')).compare
+            JSON.parse(localStorage.getItem('persist:EASYCHIC')).compare
         );
 
         let existItem = localCompare.compareItems.find(
@@ -58,7 +58,7 @@ function* removeItemSaga(payload) {
     try {
         const { product } = payload;
         let localCompare = JSON.parse(
-            JSON.parse(localStorage.getItem('persist:REDSYS')).compare
+            JSON.parse(localStorage.getItem('persist:EASYCHIC')).compare
         );
         let index = localCompare.compareItems.indexOf(product);
         localCompare.compareTotal = localCompare.compareTotal - 1;

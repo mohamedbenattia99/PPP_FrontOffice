@@ -3,7 +3,7 @@
         {
             "id": "1",
             "thumbnail": "/static/img/categories/shop/1.jpg",
-            "title": "Clothing & Apparel",
+            "title": "Prêt à Porter",
             "links": ["Accessories", "Bags", "Kid's Fashion", "Mens"]
         },
         {
@@ -15,7 +15,7 @@
         {
             "id": "3",
             "thumbnail": "/static/img/categories/shop/3.jpg",
-            "title": "Consumer Electrics",
+            "title": "Prêt à Porter",
             "links": [
                 "Air Conditioners",
                 "Audios & Theaters",
@@ -26,25 +26,25 @@
         {
             "id": "4",
             "thumbnail": "/static/img/categories/shop/4.jpg",
-            "title": "Health & Beauty",
+            "title": "Prêt à Porter",
             "links": ["Equipments", "Hair Care", "Perfumer", "Skin Care"]
         },
         {
             "id": "5",
             "thumbnail": "/static/img/categories/shop/5.jpg",
-            "title": "Computers & Technologies",
+            "title": "Accesoires",
             "links": ["Desktop PC", "Laptop", "Smartphones", "Accessories"]
         },
         {
             "id": "6",
             "thumbnail": "/static/img/categories/shop/6.jpg",
-            "title": "Jewelry & Watches",
+            "title": "Bijoux et Montres",
             "links": ["Gemstones Jewelry", "Men's Watches", "Women's Watches"]
         },
         {
             "id": "7",
             "thumbnail": "/static/img/categories/shop/7.jpg",
-            "title": "Phone & Accessories",
+            "title": "Sac",
             "links": ["Iphone 8", "Iphone X", "Samsung Note 8", "Samsung S8"]
         },
         {
@@ -56,7 +56,7 @@
     ],
     "shop_categories_catalog": [
         {
-            "text": "Clothing & Apparel",
+            "text": "Prêt à Porter",
             "url": "/shop",
             "extraClass": "menu-item-has-children",
             "subClass": "sub-menu",
@@ -124,7 +124,7 @@
             ]
         },
         {
-            "text": "Consumer Electrics",
+            "text": "Prêt à Porter",
             "url": "/shop",
             "extraClass": "menu-item-has-children",
             "subClass": "sub-menu",
@@ -264,7 +264,7 @@
             ]
         },
         {
-            "text": "Computers & Technologies",
+            "text": "Accesoires",
             "url": "/shop",
             "extraClass": "menu-item-has-children",
             "subClass": "sub-menu",
@@ -284,7 +284,7 @@
             ]
         },
         {
-            "text": "Jewelry & Watches",
+            "text": "Bijoux et Montres",
             "url": "/shop",
             "extraClass": "menu-item-has-children",
             "subClass": "sub-menu",
@@ -304,7 +304,7 @@
             ]
         },
         {
-            "text": "Phones & Accessories",
+            "text": "Prêt à Porter",
             "url": "/shop",
             "extraClass": "menu-item-has-children",
             "subClass": "sub-menu",

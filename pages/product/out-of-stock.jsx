@@ -42,7 +42,7 @@ class ProductOnSalePage extends Component {
                 url: '/',
             },
             {
-                text: 'Health & Beauty',
+                text: 'Prêt à Porter',
                 url: '/shop',
             },
             {
@@ -50,7 +50,7 @@ class ProductOnSalePage extends Component {
                 url: '/shop',
             },
             {
-                text: 'Baxter Care Hair Kit For Bearded Mens',
+                text: 'Costume Complet Hugo Boss',
             },
         ];
         return (

@@ -83,7 +83,7 @@ class ProductDealOfDay extends Component {
                     <Link href="/product/[pid]" as={`/product/${product.id}`}>
                         <a>
                             <LazyLoad>
-                                <img src={thumbnail} alt="REDSYS" />
+                                <img src={thumbnail} alt="EASYCHIC" />
                             </LazyLoad>
                         </a>
                     </Link>
@@ -137,7 +137,7 @@ class ProductDealOfDay extends Component {
                 </div>
                 <div className="ps-product__container">
                     <Link href="/shop">
-                        <a className="ps-product__vendor">Young Shop</a>
+                        <a className="ps-product__vendor">EasyChic Shop</a>
                     </Link>
                     <div className="ps-product__content">
                         {product.is_sale === true ? (

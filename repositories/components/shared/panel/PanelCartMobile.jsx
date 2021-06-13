@@ -39,7 +39,7 @@ class PanelCartMobile extends Component {
                                                         ? product.thumbnail.url
                                                         : `${baseUrl}${product.thumbnail.url}`
                                                 }
-                                                alt="REDSYS"
+                                                alt="EASYCHIC"
                                             />
                                         </a>
                                     </Link>

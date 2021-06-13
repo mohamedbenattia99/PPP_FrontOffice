@@ -8,7 +8,7 @@ const DownloadApp = () => (
                     <div className="row">
                         <div className="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 ">
                             <div className="ps-block__thumbnail">
-                                <img src="/static/img/app.jpg" alt="REDSYS" />
+                                <img src="/static/img/app.jpg" alt="EASYCHIC" />
                             </div>
                         </div>
                         <div className="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 ">
@@ -32,10 +32,10 @@ const DownloadApp = () => (
                                 </form>
                               {/*  <p className="download-link">
                                     <a href="#">
-                                        <img src="/static/img/google-play.png" alt="REDSYS" />
+                                        <img src="/static/img/google-play.png" alt="EASYCHIC" />
                                     </a>
                                     <a href="#">
-                                        <img src="/static/img/app-store.png" alt="REDSYS" />
+                                        <img src="/static/img/app-store.png" alt="EASYCHIC" />
                                     </a>
                                 </p>*/}
                             </div>

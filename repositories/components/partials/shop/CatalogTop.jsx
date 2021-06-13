@@ -56,7 +56,7 @@ const CatalogTop = () => (
                                         data-mh="categories"
                                         key={category.id}>
                                         <div className="ps-block__thumbnail">
-                                            <img src={category.thumbnail} alt="REDSYS" />
+                                            <img src={category.thumbnail} alt="EASYCHIC" />
                                         </div>
                                         <div className="ps-block__content">
                                             <h4>{category.title}</h4>

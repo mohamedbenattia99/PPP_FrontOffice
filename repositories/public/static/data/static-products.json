@@ -1,12 +1,12 @@
 [
     {
         "id": 1,
-        "title": "Apple iPhone Retina 6s Plus 32GB",
+        "title": "Costume Complet Apple",
         "is_featured": null,
         "is_hot": null,
         "price": 640.5,
         "sale_price": null,
-        "vendor": "ROBERT’S STORE",
+        "vendor": "Apple",
         "review": 5,
         "is_out_of_stock": null,
         "depot": 80,
@@ -29,7 +29,7 @@
                 "ext": ".jpg",
                 "mime": "image/jpeg",
                 "size": 8.78,
-                "url": "/static/uploads/114071762b454d09aca0e0a95ad3885d.jpg",
+                "url": "/static/uploads/12.JPG",
                 "previewUrl": null,
                 "provider": "local",
                 "provider_metadata": null,
@@ -87,7 +87,7 @@
             "ext": ".jpg",
             "mime": "image/jpeg",
             "size": 8.78,
-            "url": "/static/uploads/5a1586c7d04646fda4575e5af5c16c30.jpg",
+            "url": "/static/uploads/12.JPG",
             "previewUrl": null,
             "provider": "local",
             "provider_metadata": null,
@@ -97,8 +97,8 @@
         "product_categories": [
             {
                 "id": 7,
-                "name": "Phones & Accessories",
-                "slug": "phones-and-accessories",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:26:54.185Z",
                 "updated_at": "2020-03-14T10:26:54.185Z"
@@ -109,7 +109,7 @@
                 "id": 1,
                 "name": "Apple",
                 "description": "",
-                "slug": "apple",
+                "slug": "Apple",
                 "created_at": "2020-03-14T10:30:03.468Z",
                 "updated_at": "2020-03-14T10:30:31.584Z"
             }
@@ -151,12 +151,12 @@
     },
     {
         "id": 2,
-        "title": "Apple iPhone Retina 6s Plus 64GB",
+        "title": "Costume Complet  Beige Gucci",
         "is_featured": false,
         "is_hot": false,
         "price": 1150,
         "sale_price": null,
-        "vendor": "Young Shop",
+        "vendor": "EasyChic Shop",
         "review": 4,
         "is_out_of_stock": false,
         "depot": 80,
@@ -179,7 +179,7 @@
                 "ext": ".jpg",
                 "mime": "image/jpeg",
                 "size": 8.78,
-                "url": "/static/uploads/0e9b9750228b421aafe324f6f9b36304.jpg",
+                "url": "/static/uploads/11.JPG",
                 "previewUrl": null,
                 "provider": "local",
                 "provider_metadata": null,
@@ -237,7 +237,7 @@
             "ext": ".jpg",
             "mime": "image/jpeg",
             "size": 9.04,
-            "url": "/static/uploads/4c07bca3f13444688823a1c099410884.jpg",
+            "url": "/static/uploads/11.JPG",
             "previewUrl": null,
             "provider": "local",
             "provider_metadata": null,
@@ -247,8 +247,8 @@
         "product_categories": [
             {
                 "id": 7,
-                "name": "Phones & Accessories",
-                "slug": "phones-and-accessories",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:26:54.185Z",
                 "updated_at": "2020-03-14T10:26:54.185Z"
@@ -259,7 +259,7 @@
                 "id": 1,
                 "name": "Apple",
                 "description": "",
-                "slug": "apple",
+                "slug": "Apple",
                 "created_at": "2020-03-14T10:30:03.468Z",
                 "updated_at": "2020-03-14T10:30:31.584Z"
             }
@@ -285,12 +285,12 @@
     },
     {
         "id": 3,
-        "title": "Marshall Kilburn Portable Wireless Speaker",
+        "title": "Costume Bleu Chic Hugo Boss",
         "is_featured": false,
         "is_hot": false,
         "price": 42.99,
         "sale_price": null,
-        "vendor": "Go Pro",
+        "vendor": "Hugo Boss",
         "review": 5,
         "is_out_of_stock": false,
         "depot": 85,
@@ -313,7 +313,7 @@
                 "ext": ".jpg",
                 "mime": "image/jpeg",
                 "size": 158.75,
-                "url": "/static/uploads/3398b7a330154c9390db4495b9e3d413.jpg",
+                "url": "/static/uploads/10.JPG",
                 "previewUrl": null,
                 "provider": "local",
                 "provider_metadata": null,
@@ -371,7 +371,7 @@
             "ext": ".jpg",
             "mime": "image/jpeg",
             "size": 15.15,
-            "url": "/static/uploads/feaeaa8c5d24474e943f57a7df55e921.jpg",
+            "url": "/static/uploads/10.JPG",
             "previewUrl": null,
             "provider": "local",
             "provider_metadata": null,
@@ -381,8 +381,8 @@
         "product_categories": [
             {
                 "id": 3,
-                "name": "Consumer Electrics",
-                "slug": "consumer-electrics",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:25:39.408Z",
                 "updated_at": "2020-03-14T10:25:39.408Z"
@@ -391,9 +391,9 @@
         "brands": [
             {
                 "id": 2,
-                "name": "Marshall",
+                "name": "Hugo Boss",
                 "description": null,
-                "slug": "marshall",
+                "slug": "Hugo Boss",
                 "created_at": "2020-03-14T10:31:31.138Z",
                 "updated_at": "2020-03-14T10:31:31.138Z"
             }
@@ -448,7 +448,7 @@
         "is_hot": false,
         "price": 125.3,
         "sale_price": null,
-        "vendor": "Go Pro",
+        "vendor": "Hugo Boss",
         "review": 4,
         "is_out_of_stock": false,
         "depot": 50,
@@ -558,8 +558,8 @@
         "product_categories": [
             {
                 "id": 1,
-                "name": "Clothing & Apparel",
-                "slug": "clothing-and-parel",
+                "name": "Prêt à Porter",
+                "slug": "Pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:24:42.894Z",
                 "updated_at": "2020-04-17T08:41:15.412Z"
@@ -568,9 +568,9 @@
         "brands": [
             {
                 "id": 8,
-                "name": "Gucci",
+                "name": "Apple",
                 "description": null,
-                "slug": "gucci",
+                "slug": "Apple",
                 "created_at": "2020-03-14T10:32:29.669Z",
                 "updated_at": "2020-03-14T10:32:29.669Z"
             }
@@ -743,8 +743,8 @@
         "product_categories": [
             {
                 "id": 5,
-                "name": "Computers & Technologies",
-                "slug": "computers-and-technologies",
+                "name": "Accesoires",
+                "slug": "accesoires",
                 "description": null,
                 "created_at": "2020-03-14T10:26:11.462Z",
                 "updated_at": "2020-03-14T10:26:11.462Z"
@@ -1035,8 +1035,8 @@
         "product_categories": [
             {
                 "id": 5,
-                "name": "Computers & Technologies",
-                "slug": "computers-and-technologies",
+                "name": "Accesoires",
+                "slug": "accesoires",
                 "description": null,
                 "created_at": "2020-03-14T10:26:11.462Z",
                 "updated_at": "2020-03-14T10:26:11.462Z"
@@ -1287,7 +1287,7 @@
         "is_hot": false,
         "price": 42.2,
         "sale_price": 35.89,
-        "vendor": "Young shop",
+        "vendor": "EasyChic Shop",
         "review": 3,
         "is_out_of_stock": false,
         "depot": 70,
@@ -1397,8 +1397,8 @@
         "product_categories": [
             {
                 "id": 1,
-                "name": "Clothing & Apparel",
-                "slug": "clothing-and-parel",
+                "name": "Prêt à Porter",
+                "slug": "Pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:24:42.894Z",
                 "updated_at": "2020-04-17T08:41:15.412Z"
@@ -1448,7 +1448,7 @@
         "is_hot": false,
         "price": 35.89,
         "sale_price": null,
-        "vendor": "Young shop",
+        "vendor": "EasyChic Shop",
         "review": 5,
         "is_out_of_stock": false,
         "depot": 50,
@@ -1539,8 +1539,8 @@
         "product_categories": [
             {
                 "id": 1,
-                "name": "Clothing & Apparel",
-                "slug": "clothing-and-parel",
+                "name": "Prêt à Porter",
+                "slug": "Pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:24:42.894Z",
                 "updated_at": "2020-04-17T08:41:15.412Z"
@@ -1549,9 +1549,9 @@
         "brands": [
             {
                 "id": 8,
-                "name": "Gucci",
+                "name": "Apple",
                 "description": null,
-                "slug": "gucci",
+                "slug": "Apple",
                 "created_at": "2020-03-14T10:32:29.669Z",
                 "updated_at": "2020-03-14T10:32:29.669Z"
             }
@@ -1582,7 +1582,7 @@
         "is_hot": false,
         "price": 29.39,
         "sale_price": null,
-        "vendor": "Go Pro",
+        "vendor": "Hugo Boss",
         "review": 4,
         "is_out_of_stock": false,
         "depot": 65,
@@ -1692,8 +1692,8 @@
         "product_categories": [
             {
                 "id": 1,
-                "name": "Clothing & Apparel",
-                "slug": "clothing-and-parel",
+                "name": "Prêt à Porter",
+                "slug": "Pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:24:42.894Z",
                 "updated_at": "2020-04-17T08:41:15.412Z"
@@ -1826,8 +1826,8 @@
         "product_categories": [
             {
                 "id": 1,
-                "name": "Clothing & Apparel",
-                "slug": "clothing-and-parel",
+                "name": "Prêt à Porter",
+                "slug": "Pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:24:42.894Z",
                 "updated_at": "2020-04-17T08:41:15.412Z"
@@ -1995,8 +1995,8 @@
         "product_categories": [
             {
                 "id": 1,
-                "name": "Clothing & Apparel",
-                "slug": "clothing-and-parel",
+                "name": "Prêt à Porter",
+                "slug": "Pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:24:42.894Z",
                 "updated_at": "2020-04-17T08:41:15.412Z"
@@ -2005,9 +2005,9 @@
         "brands": [
             {
                 "id": 8,
-                "name": "Gucci",
+                "name": "Apple",
                 "description": null,
-                "slug": "gucci",
+                "slug": "Apple",
                 "created_at": "2020-03-14T10:32:29.669Z",
                 "updated_at": "2020-03-14T10:32:29.669Z"
             }
@@ -2030,7 +2030,7 @@
         "is_hot": false,
         "price": 62.99,
         "sale_price": 57.99,
-        "vendor": "Young Shop",
+        "vendor": "EasyChic Shop",
         "review": 5,
         "is_out_of_stock": false,
         "depot": 60,
@@ -2121,8 +2121,8 @@
         "product_categories": [
             {
                 "id": 6,
-                "name": "Jewelry & Watches",
-                "slug": "jewelry-and-watches",
+                "name": "Bijoux et Montres",
+                "slug": "bijoux-et-montres",
                 "description": null,
                 "created_at": "2020-03-14T10:26:39.769Z",
                 "updated_at": "2020-03-14T10:26:39.769Z"
@@ -2293,8 +2293,8 @@
         "product_categories": [
             {
                 "id": 7,
-                "name": "Phones & Accessories",
-                "slug": "phones-and-accessories",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:26:54.185Z",
                 "updated_at": "2020-03-14T10:26:54.185Z"
@@ -2303,9 +2303,9 @@
         "brands": [
             {
                 "id": 2,
-                "name": "Marshall",
+                "name": "Hugo Boss",
                 "description": null,
-                "slug": "marshall",
+                "slug": "Hugo Boss",
                 "created_at": "2020-03-14T10:31:31.138Z",
                 "updated_at": "2020-03-14T10:31:31.138Z"
             }
@@ -2336,7 +2336,7 @@
         "is_hot": false,
         "price": 332.38,
         "sale_price": null,
-        "vendor": "Young Shop",
+        "vendor": "EasyChic Shop",
         "review": 4,
         "is_out_of_stock": false,
         "depot": 60,
@@ -2446,8 +2446,8 @@
         "product_categories": [
             {
                 "id": 5,
-                "name": "Computers & Technologies",
-                "slug": "computers-and-technologies",
+                "name": "Accesoires",
+                "slug": "accesoires",
                 "description": null,
                 "created_at": "2020-03-14T10:26:11.462Z",
                 "updated_at": "2020-03-14T10:26:11.462Z"
@@ -2505,7 +2505,7 @@
         "is_hot": false,
         "price": 1362.99,
         "sale_price": 1200,
-        "vendor": "Young Shop",
+        "vendor": "EasyChic Shop",
         "review": 4,
         "is_out_of_stock": false,
         "depot": 70,
@@ -2615,8 +2615,8 @@
         "product_categories": [
             {
                 "id": 5,
-                "name": "Computers & Technologies",
-                "slug": "computers-and-technologies",
+                "name": "Accesoires",
+                "slug": "accesoires",
                 "description": null,
                 "created_at": "2020-03-14T10:26:11.462Z",
                 "updated_at": "2020-03-14T10:26:11.462Z"
@@ -2627,7 +2627,7 @@
                 "id": 1,
                 "name": "Apple",
                 "description": "",
-                "slug": "apple",
+                "slug": "Apple",
                 "created_at": "2020-03-14T10:30:03.468Z",
                 "updated_at": "2020-03-14T10:30:31.584Z"
             }
@@ -2792,8 +2792,8 @@
         "product_categories": [
             {
                 "id": 5,
-                "name": "Computers & Technologies",
-                "slug": "computers-and-technologies",
+                "name": "Accesoires",
+                "slug": "accesoires",
                 "description": null,
                 "created_at": "2020-03-14T10:26:11.462Z",
                 "updated_at": "2020-03-14T10:26:11.462Z"
@@ -2969,8 +2969,8 @@
         "product_categories": [
             {
                 "id": 3,
-                "name": "Consumer Electrics",
-                "slug": "consumer-electrics",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:25:39.408Z",
                 "updated_at": "2020-03-14T10:25:39.408Z"
@@ -3114,8 +3114,8 @@
         "product_categories": [
             {
                 "id": 3,
-                "name": "Consumer Electrics",
-                "slug": "consumer-electrics",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:25:39.408Z",
                 "updated_at": "2020-03-14T10:25:39.408Z"
@@ -3157,7 +3157,7 @@
         "is_hot": false,
         "price": 1422.7,
         "sale_price": 1025.5,
-        "vendor": "Young Shop",
+        "vendor": "EasyChic Shop",
         "review": 5,
         "is_out_of_stock": false,
         "depot": 65,
@@ -3229,8 +3229,8 @@
         "product_categories": [
             {
                 "id": 3,
-                "name": "Consumer Electrics",
-                "slug": "consumer-electrics",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:25:39.408Z",
                 "updated_at": "2020-03-14T10:25:39.408Z"
@@ -3280,7 +3280,7 @@
         "is_hot": false,
         "price": 96,
         "sale_price": 85,
-        "vendor": "Young Shop",
+        "vendor": "EasyChic Shop",
         "review": 5,
         "is_out_of_stock": false,
         "depot": 50,
@@ -3390,8 +3390,8 @@
         "product_categories": [
             {
                 "id": 7,
-                "name": "Phones & Accessories",
-                "slug": "phones-and-accessories",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:26:54.185Z",
                 "updated_at": "2020-03-14T10:26:54.185Z"
@@ -3400,9 +3400,9 @@
         "brands": [
             {
                 "id": 2,
-                "name": "Marshall",
+                "name": "Hugo Boss",
                 "description": null,
-                "slug": "marshall",
+                "slug": "Hugo Boss",
                 "created_at": "2020-03-14T10:31:31.138Z",
                 "updated_at": "2020-03-14T10:31:31.138Z"
             }
@@ -3543,8 +3543,8 @@
         "product_categories": [
             {
                 "id": 5,
-                "name": "Computers & Technologies",
-                "slug": "computers-and-technologies",
+                "name": "Accesoires",
+                "slug": "accesoires",
                 "description": null,
                 "created_at": "2020-03-14T10:26:11.462Z",
                 "updated_at": "2020-03-14T10:26:11.462Z"
@@ -3594,7 +3594,7 @@
         "is_hot": false,
         "price": 1207.15,
         "sale_price": 945.9,
-        "vendor": "Go Pro",
+        "vendor": "Hugo Boss",
         "review": 5,
         "is_out_of_stock": false,
         "depot": 65,
@@ -3704,8 +3704,8 @@
         "product_categories": [
             {
                 "id": 5,
-                "name": "Computers & Technologies",
-                "slug": "computers-and-technologies",
+                "name": "Accesoires",
+                "slug": "accesoires",
                 "description": null,
                 "created_at": "2020-03-14T10:26:11.462Z",
                 "updated_at": "2020-03-14T10:26:11.462Z"
@@ -3865,8 +3865,8 @@
         "product_categories": [
             {
                 "id": 3,
-                "name": "Consumer Electrics",
-                "slug": "consumer-electrics",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:25:39.408Z",
                 "updated_at": "2020-03-14T10:25:39.408Z"
@@ -3900,7 +3900,7 @@
         "is_hot": false,
         "price": 60,
         "sale_price": 42,
-        "vendor": "Young Shop",
+        "vendor": "EasyChic Shop",
         "review": 2,
         "is_out_of_stock": false,
         "depot": 70,
@@ -4477,8 +4477,8 @@
         "product_categories": [
             {
                 "id": 3,
-                "name": "Consumer Electrics",
-                "slug": "consumer-electrics",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:25:39.408Z",
                 "updated_at": "2020-03-14T10:25:39.408Z"
@@ -4512,7 +4512,7 @@
         "is_hot": false,
         "price": 60,
         "sale_price": 42,
-        "vendor": "Young Shop",
+        "vendor": "EasyChic Shop",
         "review": 2,
         "is_out_of_stock": false,
         "depot": 60,
@@ -4710,8 +4710,8 @@
         "product_categories": [
             {
                 "id": 5,
-                "name": "Computers & Technologies",
-                "slug": "computers-and-technologies",
+                "name": "Accesoires",
+                "slug": "accesoires",
                 "description": null,
                 "created_at": "2020-03-14T10:26:11.462Z",
                 "updated_at": "2020-03-14T10:26:11.462Z"
@@ -4761,7 +4761,7 @@
         "is_hot": false,
         "price": 1050.5,
         "sale_price": 990.99,
-        "vendor": "ROBERT’S STORE",
+        "vendor": "Apple",
         "review": 2,
         "is_out_of_stock": false,
         "depot": 60,
@@ -4849,7 +4849,7 @@
         "is_hot": false,
         "price": 50.5,
         "sale_price": 45.99,
-        "vendor": "ROBERT’S STORE",
+        "vendor": "Apple",
         "review": 4,
         "is_out_of_stock": false,
         "depot": 70,
@@ -4937,7 +4937,7 @@
         "is_hot": false,
         "price": 120.5,
         "sale_price": 100.99,
-        "vendor": "Young Shop",
+        "vendor": "EasyChic Shop",
         "review": 4,
         "is_out_of_stock": false,
         "depot": 60,
@@ -5025,7 +5025,7 @@
         "is_hot": false,
         "price": 442.99,
         "sale_price": null,
-        "vendor": "Go Pro",
+        "vendor": "Hugo Boss",
         "review": 3,
         "is_out_of_stock": false,
         "depot": 40,
@@ -5151,7 +5151,7 @@
         "is_hot": false,
         "price": 770.5,
         "sale_price": 625.99,
-        "vendor": "Go Pro",
+        "vendor": "Hugo Boss",
         "review": 4,
         "is_out_of_stock": false,
         "depot": 60,
@@ -5381,7 +5381,7 @@
         "is_hot": false,
         "price": 670,
         "sale_price": 567.99,
-        "vendor": "Go Pro",
+        "vendor": "Hugo Boss",
         "review": 4,
         "is_out_of_stock": false,
         "depot": 70,
@@ -5434,8 +5434,8 @@
         "product_categories": [
             {
                 "id": 3,
-                "name": "Consumer Electrics",
-                "slug": "consumer-electrics",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:25:39.408Z",
                 "updated_at": "2020-03-14T10:25:39.408Z"
@@ -5521,7 +5521,7 @@
         "is_hot": false,
         "price": 360,
         "sale_price": 342,
-        "vendor": "Young Shop",
+        "vendor": "EasyChic Shop",
         "review": 4,
         "is_out_of_stock": false,
         "depot": 70,
@@ -5574,8 +5574,8 @@
         "product_categories": [
             {
                 "id": 3,
-                "name": "Consumer Electrics",
-                "slug": "consumer-electrics",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:25:39.408Z",
                 "updated_at": "2020-03-14T10:25:39.408Z"
@@ -5662,8 +5662,8 @@
         "product_categories": [
             {
                 "id": 3,
-                "name": "Consumer Electrics",
-                "slug": "consumer-electrics",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:25:39.408Z",
                 "updated_at": "2020-03-14T10:25:39.408Z"
@@ -5688,7 +5688,7 @@
         "is_hot": false,
         "price": 510,
         "sale_price": 500.99,
-        "vendor": "Go Pro",
+        "vendor": "Hugo Boss",
         "review": 4,
         "is_out_of_stock": false,
         "depot": 70,
@@ -5741,8 +5741,8 @@
         "product_categories": [
             {
                 "id": 5,
-                "name": "Computers & Technologies",
-                "slug": "computers-and-technologies",
+                "name": "Accesoires",
+                "slug": "accesoires",
                 "description": null,
                 "created_at": "2020-03-14T10:26:11.462Z",
                 "updated_at": "2020-03-14T10:26:11.462Z"
@@ -5886,8 +5886,8 @@
         "product_categories": [
             {
                 "id": 7,
-                "name": "Phones & Accessories",
-                "slug": "phones-and-accessories",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:26:54.185Z",
                 "updated_at": "2020-03-14T10:26:54.185Z"
@@ -5921,7 +5921,7 @@
         "is_hot": false,
         "price": 760,
         "sale_price": 625,
-        "vendor": "Young Shop",
+        "vendor": "EasyChic Shop",
         "review": 5,
         "is_out_of_stock": false,
         "depot": 70,
@@ -6031,8 +6031,8 @@
         "product_categories": [
             {
                 "id": 7,
-                "name": "Phones & Accessories",
-                "slug": "phones-and-accessories",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:26:54.185Z",
                 "updated_at": "2020-03-14T10:26:54.185Z"
@@ -6211,7 +6211,7 @@
         "is_hot": false,
         "price": 50,
         "sale_price": 25,
-        "vendor": "Young Shop",
+        "vendor": "EasyChic Shop",
         "review": 5,
         "is_out_of_stock": false,
         "depot": 70,
@@ -7172,8 +7172,8 @@
         "product_categories": [
             {
                 "id": 3,
-                "name": "Consumer Electrics",
-                "slug": "consumer-electrics",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:25:39.408Z",
                 "updated_at": "2020-03-14T10:25:39.408Z"
@@ -7182,9 +7182,9 @@
         "brands": [
             {
                 "id": 2,
-                "name": "Marshall",
+                "name": "Hugo Boss",
                 "description": null,
-                "slug": "marshall",
+                "slug": "Hugo Boss",
                 "created_at": "2020-03-14T10:31:31.138Z",
                 "updated_at": "2020-03-14T10:31:31.138Z"
             }
@@ -7198,7 +7198,7 @@
         "is_hot": false,
         "price": 59,
         "sale_price": 47.99,
-        "vendor": "Young Shop",
+        "vendor": "EasyChic Shop",
         "review": 5,
         "is_out_of_stock": false,
         "depot": 70,
@@ -7308,7 +7308,7 @@
         "product_categories": [
             {
                 "id": 4,
-                "name": "Health & Beauty",
+                "name": "Prêt à Porter",
                 "slug": "health-and-beauty",
                 "description": null,
                 "created_at": "2020-03-14T10:25:51.376Z",
@@ -7329,12 +7329,12 @@
     },
     {
         "id": 55,
-        "title": "Baxter Care Hair Kit For Bearded Mens",
+        "title": "Costume Complet Hugo Boss",
         "is_featured": false,
         "is_hot": false,
         "price": 60,
         "sale_price": 42,
-        "vendor": "Young Shop",
+        "vendor": "EasyChic Shop",
         "review": 4,
         "is_out_of_stock": false,
         "depot": 70,
@@ -7357,7 +7357,7 @@
                 "ext": ".jpg",
                 "mime": "image/jpeg",
                 "size": 58.88,
-                "url": "/static/uploads/1ca5fe0793e545669c16a8e7c7b68348.jpg",
+                "url": "/static/uploads/13.JPG",
                 "previewUrl": null,
                 "provider": "local",
                 "provider_metadata": null,
@@ -7444,7 +7444,7 @@
         "product_categories": [
             {
                 "id": 4,
-                "name": "Health & Beauty",
+                "name": "Prêt à Porter",
                 "slug": "health-and-beauty",
                 "description": null,
                 "created_at": "2020-03-14T10:25:51.376Z",
@@ -7580,7 +7580,7 @@
         "product_categories": [
             {
                 "id": 4,
-                "name": "Health & Beauty",
+                "name": "Prêt à Porter",
                 "slug": "health-and-beauty",
                 "description": null,
                 "created_at": "2020-03-14T10:25:51.376Z",
@@ -7706,7 +7706,7 @@
         "product_categories": [
             {
                 "id": 4,
-                "name": "Health & Beauty",
+                "name": "Prêt à Porter",
                 "slug": "health-and-beauty",
                 "description": null,
                 "created_at": "2020-03-14T10:25:51.376Z",
@@ -7842,7 +7842,7 @@
         "product_categories": [
             {
                 "id": 4,
-                "name": "Health & Beauty",
+                "name": "Prêt à Porter",
                 "slug": "health-and-beauty",
                 "description": null,
                 "created_at": "2020-03-14T10:25:51.376Z",
@@ -7959,8 +7959,8 @@
         "product_categories": [
             {
                 "id": 7,
-                "name": "Phones & Accessories",
-                "slug": "phones-and-accessories",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:26:54.185Z",
                 "updated_at": "2020-03-14T10:26:54.185Z"
@@ -7971,7 +7971,7 @@
                 "id": 1,
                 "name": "Apple",
                 "description": "",
-                "slug": "apple",
+                "slug": "Apple",
                 "created_at": "2020-03-14T10:30:03.468Z",
                 "updated_at": "2020-03-14T10:30:31.584Z"
             }
@@ -8076,8 +8076,8 @@
         "product_categories": [
             {
                 "id": 7,
-                "name": "Phones & Accessories",
-                "slug": "phones-and-accessories",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:26:54.185Z",
                 "updated_at": "2020-03-14T10:26:54.185Z"
@@ -8088,7 +8088,7 @@
                 "id": 1,
                 "name": "Apple",
                 "description": "",
-                "slug": "apple",
+                "slug": "Apple",
                 "created_at": "2020-03-14T10:30:03.468Z",
                 "updated_at": "2020-03-14T10:30:31.584Z"
             }
@@ -8164,8 +8164,8 @@
         "product_categories": [
             {
                 "id": 5,
-                "name": "Computers & Technologies",
-                "slug": "computers-and-technologies",
+                "name": "Accesoires",
+                "slug": "accesoires",
                 "description": null,
                 "created_at": "2020-03-14T10:26:11.462Z",
                 "updated_at": "2020-03-14T10:26:11.462Z"
@@ -8176,7 +8176,7 @@
                 "id": 1,
                 "name": "Apple",
                 "description": "",
-                "slug": "apple",
+                "slug": "Apple",
                 "created_at": "2020-03-14T10:30:03.468Z",
                 "updated_at": "2020-03-14T10:30:31.584Z"
             }
@@ -8378,8 +8378,8 @@
         "product_categories": [
             {
                 "id": 7,
-                "name": "Phones & Accessories",
-                "slug": "phones-and-accessories",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:26:54.185Z",
                 "updated_at": "2020-03-14T10:26:54.185Z"
@@ -8523,8 +8523,8 @@
         "product_categories": [
             {
                 "id": 7,
-                "name": "Phones & Accessories",
-                "slug": "phones-and-accessories",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:26:54.185Z",
                 "updated_at": "2020-03-14T10:26:54.185Z"
@@ -8659,8 +8659,8 @@
         "product_categories": [
             {
                 "id": 7,
-                "name": "Phones & Accessories",
-                "slug": "phones-and-accessories",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:26:54.185Z",
                 "updated_at": "2020-03-14T10:26:54.185Z"
@@ -8804,8 +8804,8 @@
         "product_categories": [
             {
                 "id": 5,
-                "name": "Computers & Technologies",
-                "slug": "computers-and-technologies",
+                "name": "Accesoires",
+                "slug": "accesoires",
                 "description": null,
                 "created_at": "2020-03-14T10:26:11.462Z",
                 "updated_at": "2020-03-14T10:26:11.462Z"
@@ -8816,7 +8816,7 @@
                 "id": 1,
                 "name": "Apple",
                 "description": "",
-                "slug": "apple",
+                "slug": "Apple",
                 "created_at": "2020-03-14T10:30:03.468Z",
                 "updated_at": "2020-03-14T10:30:31.584Z"
             }
@@ -8830,7 +8830,7 @@
         "is_hot": false,
         "price": 392.99,
         "sale_price": null,
-        "vendor": "Young Shop",
+        "vendor": "EasyChic Shop",
         "review": 4,
         "is_out_of_stock": false,
         "depot": 60,
@@ -8940,8 +8940,8 @@
         "product_categories": [
             {
                 "id": 7,
-                "name": "Phones & Accessories",
-                "slug": "phones-and-accessories",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:26:54.185Z",
                 "updated_at": "2020-03-14T10:26:54.185Z"
@@ -9085,8 +9085,8 @@
         "product_categories": [
             {
                 "id": 7,
-                "name": "Phones & Accessories",
-                "slug": "phones-and-accessories",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:26:54.185Z",
                 "updated_at": "2020-03-14T10:26:54.185Z"
@@ -9120,7 +9120,7 @@
         "is_hot": false,
         "price": 92.99,
         "sale_price": null,
-        "vendor": "Young Shop",
+        "vendor": "EasyChic Shop",
         "review": 5,
         "is_out_of_stock": false,
         "depot": 50,
@@ -9211,8 +9211,8 @@
         "product_categories": [
             {
                 "id": 3,
-                "name": "Consumer Electrics",
-                "slug": "consumer-electrics",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:25:39.408Z",
                 "updated_at": "2020-03-14T10:25:39.408Z"
@@ -9223,7 +9223,7 @@
                 "id": 1,
                 "name": "Apple",
                 "description": "",
-                "slug": "apple",
+                "slug": "Apple",
                 "created_at": "2020-03-14T10:30:03.468Z",
                 "updated_at": "2020-03-14T10:30:31.584Z"
             }
@@ -9246,7 +9246,7 @@
         "is_hot": false,
         "price": 392.99,
         "sale_price": null,
-        "vendor": "Young Shop",
+        "vendor": "EasyChic Shop",
         "review": 4,
         "is_out_of_stock": false,
         "depot": 70,
@@ -9356,8 +9356,8 @@
         "product_categories": [
             {
                 "id": 3,
-                "name": "Consumer Electrics",
-                "slug": "consumer-electrics",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:25:39.408Z",
                 "updated_at": "2020-03-14T10:25:39.408Z"
@@ -9501,8 +9501,8 @@
         "product_categories": [
             {
                 "id": 5,
-                "name": "Computers & Technologies",
-                "slug": "computers-and-technologies",
+                "name": "Accesoires",
+                "slug": "accesoires",
                 "description": null,
                 "created_at": "2020-03-14T10:26:11.462Z",
                 "updated_at": "2020-03-14T10:26:11.462Z"
@@ -9637,8 +9637,8 @@
         "product_categories": [
             {
                 "id": 7,
-                "name": "Phones & Accessories",
-                "slug": "phones-and-accessories",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:26:54.185Z",
                 "updated_at": "2020-03-14T10:26:54.185Z"
@@ -9649,7 +9649,7 @@
                 "id": 1,
                 "name": "Apple",
                 "description": "",
-                "slug": "apple",
+                "slug": "Apple",
                 "created_at": "2020-03-14T10:30:03.468Z",
                 "updated_at": "2020-03-14T10:30:31.584Z"
             }
@@ -9754,8 +9754,8 @@
         "product_categories": [
             {
                 "id": 7,
-                "name": "Phones & Accessories",
-                "slug": "phones-and-accessories",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:26:54.185Z",
                 "updated_at": "2020-03-14T10:26:54.185Z"
@@ -9764,9 +9764,9 @@
         "brands": [
             {
                 "id": 2,
-                "name": "Marshall",
+                "name": "Hugo Boss",
                 "description": null,
-                "slug": "marshall",
+                "slug": "Hugo Boss",
                 "created_at": "2020-03-14T10:31:31.138Z",
                 "updated_at": "2020-03-14T10:31:31.138Z"
             }
@@ -9890,8 +9890,8 @@
         "product_categories": [
             {
                 "id": 7,
-                "name": "Phones & Accessories",
-                "slug": "phones-and-accessories",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:26:54.185Z",
                 "updated_at": "2020-03-14T10:26:54.185Z"
@@ -10026,8 +10026,8 @@
         "product_categories": [
             {
                 "id": 7,
-                "name": "Phones & Accessories",
-                "slug": "phones-and-accessories",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:26:54.185Z",
                 "updated_at": "2020-03-14T10:26:54.185Z"
@@ -10242,7 +10242,7 @@
     },
     {
         "id": 79,
-        "title": "Pineapple (Tropical Gold)",
+        "title": "PineApple (Tropical Gold)",
         "is_featured": false,
         "is_hot": false,
         "price": 2.89,
@@ -11034,7 +11034,7 @@
         "is_hot": false,
         "price": 19.22,
         "sale_price": 21.99,
-        "vendor": "Young Shop",
+        "vendor": "EasyChic Shop",
         "review": 2,
         "is_out_of_stock": false,
         "depot": 100,

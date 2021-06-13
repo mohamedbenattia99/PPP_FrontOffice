@@ -2,9 +2,6 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import Product from '../../elements/products/Product';
 import ProductWide from '../../elements/products/ProductWide';
-import ShopWidget from './modules/ShopWidget';
-import BestSaleItems from './modules/BestSaleItems';
-import RecommendItems from './modules/RecommendItems';
 import { Pagination, Skeleton } from 'antd';
 import { getProducts } from '../../../store/product/action';
 
@@ -37,8 +34,6 @@ class LayoutShop extends Component {
         const viewMode = this.state.listView;
         return (
             <div className="ps-shopping">
-               {/* <BestSaleItems collectionSlug="shop-best-seller-items" />
-                <RecommendItems collectionSlug="shop-recommend-items" /> */}
                 <div className="ps-shopping__header">
                     <p>
                         <strong className="mr-2">{total}</strong>

@@ -5,15 +5,15 @@ const VendorFaqs = () => (
         <div className="container">
             <div className="ps-section__header">
                 <p>FREQUENTLY ASKED QUESTIONS</p>
-                <h4>Here are some common questions about selling on REDSYS</h4>
+                <h4>Here are some common questions about selling on EASYCHIC</h4>
             </div>
             <div className="ps-section__content">
                 <div className="row">
                     <div className="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 ">
                         <figure>
-                            <figcaption>How do fees work on REDSYS?</figcaption>
+                            <figcaption>How do fees work on EASYCHIC?</figcaption>
                             <p>
-                                Joining and starting a shop on REDSYS is free. There are three
+                                Joining and starting a shop on EASYCHIC is free. There are three
                                 basic selling fees: a listing fee, a transaction fee, and a payment
                                 processing fee.
                             </p>
@@ -33,11 +33,11 @@ const VendorFaqs = () => (
                         <figure>
                             <figcaption>What do I need to do to create a shop?</figcaption>
                             <p>
-                                It’s easy to set up a shop on REDSYS. Create an REDSYS account
+                                It’s easy to set up a shop on EASYCHIC. Create an EASYCHIC account
                                 (if you don’t already have one), set your shop location and
                                 currency, choose a shop name, create a listing, set a payment method
                                 (how you want to be paid), and finally set a billing method (how you
-                                want to pay your REDSYSfees).
+                                want to pay your EASYCHICfees).
                             </p>
                         </figure>
                     </div>
@@ -46,7 +46,7 @@ const VendorFaqs = () => (
                             <figcaption>How do I get paid?</figcaption>
                             <p>
                                 If you accept payments with PayPal, funds from PayPal sales on
-                                REDSYS will be deposited into your PayPal account. We encourage
+                                EASYCHIC will be deposited into your PayPal account. We encourage
                                 sellers to use a PayPal Business account and not a Personal account,
                                 as personal accounts are subject to monthly receiving limits and
                                 cannot accept payments from buyers that are funded by a credit card.
@@ -76,10 +76,10 @@ const VendorFaqs = () => (
                             </p>
                         </figure>
                         <figure>
-                            <figcaption>What can I sell on REDSYS?</figcaption>
+                            <figcaption>What can I sell on EASYCHIC?</figcaption>
                         </figure>
                         <p>
-                            REDSYS provides a marketplace for crafters, artists and collectors to
+                            EASYCHIC provides a marketplace for crafters, artists and collectors to
                             sell their handmade creations, vintage goods (at least 20 years old),
                             and both handmade and non-handmade crafting supplies.
                         </p>

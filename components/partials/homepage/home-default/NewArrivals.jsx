@@ -18,12 +18,12 @@ class NewArrivals extends Component {
                         <h3>Hot New Arrivals</h3>
                         <ul className="ps-section__links">
                             <li>
-                                <Link href="/shop?category=computers-and-technologies">
+                                <Link href="/shop?category=accesoires">
                                     <a>Technologies</a>
                                 </Link>
                             </li>
                             <li>
-                                <Link href="/shop?category=consumer-electrics">
+                                <Link href="/shop?category=pret-a-porter">
                                     <a>Electronic</a>
                                 </Link>
                             </li>
@@ -33,13 +33,13 @@ class NewArrivals extends Component {
                                 </Link>
                             </li>
                             <li>
-                                <Link href="/shop?category=clothing-and-parel">
-                                    <a>Clothing & Apparel</a>
+                                <Link href="/shop?category=Pret-a-porter">
+                                    <a>Prêt à Porter</a>
                                 </Link>
                             </li>
                             <li>
                                 <Link href="/shop?category=health-and-beauty">
-                                    <a>Health & Beauty</a>
+                                    <a>Prêt à Porter</a>
                                 </Link>
                             </li>
                             <li>

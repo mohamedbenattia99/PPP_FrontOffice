@@ -40,7 +40,7 @@ class ProductImageSwatchesPage extends Component {
                 url: '/',
             },
             {
-                text: 'Clothing & Apparel',
+                text: 'Prêt à Porter',
                 url: '/shop',
             },
             {

@@ -69,21 +69,21 @@
                 ]
             }
         ],
-        "vendor": "Go Pro",
+        "vendor": "Hugo Boss",
         "price": "29.39",
         "sale": "false",
         "categories": [
             {
                 "id": "1",
                 "value": "phone",
-                "name": "Phones & Accessories"
+                "name": "Prêt à Porter"
             }
         ],
 
         "brand": [
             {
                 "id": "1",
-                "value": "apple",
+                "value": "Apple",
                 "text": "Apple"
             }
         ],

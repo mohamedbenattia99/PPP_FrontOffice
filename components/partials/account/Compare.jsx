@@ -75,7 +75,7 @@ class Compare extends Component {
                                                                         src={
                                                                             product.thumbnail
                                                                         }
-                                                                        alt="REDSYS"
+                                                                        alt="EASYCHIC"
                                                                     />
                                                                 </a>
                                                             </Link>

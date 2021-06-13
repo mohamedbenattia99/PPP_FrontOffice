@@ -168,7 +168,7 @@
                             "url": "/shop"
                         },
                         {
-                            "text": "Cellphones & Accessories",
+                            "text": "CellPrêt à Porter",
                             "url": "/shop"
                         },
                         {
@@ -210,7 +210,7 @@
         },
         {
             "icon": "icon-shirt",
-            "text": "Clothing & Apparel",
+            "text": "Prêt à Porter",
             "url": "/shop"
         },
         {
@@ -220,7 +220,7 @@
         },
         {
             "icon": "icon-heart-pulse",
-            "text": "Health & Beauty",
+            "text": "Prêt à Porter",
             "url": "/shop"
         },
         {
@@ -290,7 +290,7 @@
         },
         {
             "icon": "icon-smartphone",
-            "text": "Phones & Accessories",
+            "text": "Prêt à Porter",
             "url": "/shop"
         },
         {

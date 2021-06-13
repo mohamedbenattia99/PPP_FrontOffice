@@ -28,7 +28,7 @@ class MarketPlaceHomeBanner extends Component {
                         style={{
                             backgroundImage: `url(/static/img/slider/home-3/home-banner/1.jpg)`,
                         }}>
-                        <img src="/static/img/slider/home-3/home-banner/1.jpg" alt="REDSYS" />
+                        <img src="/static/img/slider/home-3/home-banner/1.jpg" alt="EASYCHIC" />
                         <div className="ps-banner__content">
                             <h5>Mega Sale Nov 2019</h5>
                             <h3>
@@ -47,7 +47,7 @@ class MarketPlaceHomeBanner extends Component {
                         style={{
                             backgroundImage: `url(/static/img/slider/home-3/home-banner/2.jpg)`,
                         }}>
-                        <img src="/static/img/slider/home-3/home-banner/2.jpg" alt="REDSYS" />
+                        <img src="/static/img/slider/home-3/home-banner/2.jpg" alt="EASYCHIC" />
                         <div className="ps-banner__content">
                             <h5>Mega Sale Nov 2017</h5>
                             <h3>

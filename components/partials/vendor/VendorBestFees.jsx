@@ -38,12 +38,12 @@ const VendorBestFrees = () => (
                     </figure>
                 </div>
                 <div className="ps-section__highlight">
-                    <img src="/static/img/icons/vendor-4.png" alt="REDSYS" />
+                    <img src="/static/img/icons/vendor-4.png" alt="EASYCHIC" />
                     <figure>
                         <p>
                             We process payments with PayPal, an external payments platform that
                             allows you to process transactions with a variety of payment methods.
-                            Funds from PayPal sales on REDSYS will be deposited into your PayPal
+                            Funds from PayPal sales on EASYCHIC will be deposited into your PayPal
                             account.
                         </p>
                     </figure>

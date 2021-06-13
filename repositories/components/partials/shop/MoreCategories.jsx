@@ -8,14 +8,14 @@ const MoreCategories = ({ data }) => (
             <ul className="ps-section__links">
                 <li>
                     <Link href="/shop">
-                        <a href="shop-grid.html">Clothing & Apparel</a>
+                        <a href="shop-grid.html">Prêt à Porter</a>
                     </Link>
                 </li>
                 <li>
                     <a href="shop-grid.html">Garden & Kitchen</a>
                 </li>
                 <li>
-                    <a href="shop-grid.html">Consumer Electrics</a>
+                    <a href="shop-grid.html">Prêt à Porter</a>
                 </li>
             </ul>
         </div>
@@ -25,7 +25,7 @@ const MoreCategories = ({ data }) => (
                     return (
                         <div className="ps-block--category-vertical" key={category.id}>
                             <div className="ps-block__thumbnail">
-                                <img src={category.thumbnail} alt="REDSYS" />
+                                <img src={category.thumbnail} alt="EASYCHIC" />
                             </div>
                             <div className="ps-block__content">
                                 <h4>{category.title}</h4>

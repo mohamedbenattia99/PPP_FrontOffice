@@ -90,7 +90,7 @@ class ClientSay extends Component {
                             className="ps-carousel outside">
                             <div className="ps-block--testimonial">
                                 <div className="ps-block__header">
-                                    <img src="/static/img/users/1.jpg" alt="REDSYS" />
+                                    <img src="/static/img/users/1.jpg" alt="EASYCHIC" />
                                 </div>
                                 <div className="ps-block__content">
                                     <i className="icon-quote-close"></i>
@@ -108,7 +108,7 @@ class ClientSay extends Component {
                             </div>
                             <div className="ps-block--testimonial">
                                 <div className="ps-block__header">
-                                    <img src="/static/img/users/2.png" alt="REDSYS" />
+                                    <img src="/static/img/users/2.png" alt="EASYCHIC" />
                                 </div>
                                 <div className="ps-block__content">
                                     <i className="icon-quote-close"></i>
@@ -126,7 +126,7 @@ class ClientSay extends Component {
                             </div>
                             <div className="ps-block--testimonial">
                                 <div className="ps-block__header">
-                                    <img src="/static/img/users/3.jpg" alt="REDSYS" />
+                                    <img src="/static/img/users/3.jpg" alt="EASYCHIC" />
                                 </div>
                                 <div className="ps-block__content">
                                     <i className="icon-quote-close"></i>

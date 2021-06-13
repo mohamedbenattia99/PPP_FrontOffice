@@ -9,10 +9,10 @@ const OurTeam = () => (
             <div className="ps-section__content">
                 <figure>
                     <div className="ps-block--ourteam">
-                        <img src="/static/img/users/our-team/1.jpg" alt="REDSYS" />
+                        <img src="/static/img/users/our-team/1.jpg" alt="EASYCHIC" />
                         <div className="ps-block__content">
-                            <h4>Robert Downey Jr</h4>
-                            <p>CEO Fouder</p>
+                            <h4>Karim MELLOULI</h4>
+                            <p>CEO & Co-Founder</p>
                             <ul>
                                 <li>
                                     <a href="#">
@@ -35,10 +35,10 @@ const OurTeam = () => (
                 </figure>
                 <figure>
                     <div className="ps-block--ourteam">
-                        <img src="/static/img/users/our-team/2.jpg" alt="REDSYS" />
+                        <img src="/static/img/users/our-team/2.jpg" alt="EASYCHIC" />
                         <div className="ps-block__content">
-                            <h4>Robert Downey Jr</h4>
-                            <p>CEO Fouder</p>
+                            <h4>Khalil OUERTANI</h4>
+                            <p>CTO & Co-Founder</p>
                             <ul>
                                 <li>
                                     <a href="#">
@@ -61,10 +61,10 @@ const OurTeam = () => (
                 </figure>
                 <figure>
                     <div className="ps-block--ourteam">
-                        <img src="/static/img/users/our-team/3.jpg" alt="REDSYS" />
+                        <img src="/static/img/users/our-team/3.jpg" alt="EASYCHIC" />
                         <div className="ps-block__content">
-                            <h4>Robert Downey Jr</h4>
-                            <p>CEO Fouder</p>
+                            <h4>Mohamed Aziz BOUAOUINA</h4>
+                            <p>RH & Co-Founder</p>
                             <ul>
                                 <li>
                                     <a href="#">
@@ -87,10 +87,10 @@ const OurTeam = () => (
                 </figure>
                 <figure>
                     <div className="ps-block--ourteam">
-                        <img src="/static/img/users/our-team/4.jpg" alt="REDSYS" />
+                        <img src="/static/img/users/our-team/4.jpg" alt="EASYCHIC" />
                         <div className="ps-block__content">
-                            <h4>Robert Downey Jr</h4>
-                            <p>CEO Fouder</p>
+                            <h4>Mohamed BEN ATTIA</h4>
+                            <p>WEBMASTER & Ci-Founder</p>
                             <ul>
                                 <li>
                                     <a href="#">
@@ -109,91 +109,6 @@ const OurTeam = () => (
                                 </li>
                             </ul>
                         </div>
-                    </div>
-                </figure>
-                <figure>
-                    <div className="ps-block--ourteam">
-                        <img src="/static/img/users/our-team/5.jpg" alt="REDSYS" />
-                        <div className="ps-block__content">
-                            <h4>Robert Downey Jr</h4>
-                            <p>CEO Fouder</p>
-                            <ul>
-                                <li>
-                                    <a href="#">
-                                        <i className="fa fa-twitter"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <i className="fa fa-facebook"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <i className="fa fa-linkedin"></i>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </figure>
-                <figure>
-                    <div className="ps-block--ourteam">
-                        <img src="/static/img/users/our-team/6.jpg" alt="REDSYS" />
-                        <div className="ps-block__content">
-                            <h4>Robert Downey Jr</h4>
-                            <p>CEO Fouder</p>
-                            <ul>
-                                <li>
-                                    <a href="#">
-                                        <i className="fa fa-twitter"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <i className="fa fa-facebook"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <i className="fa fa-linkedin"></i>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </figure>
-                <figure>
-                    <div className="ps-block--ourteam">
-                        <img src="/static/img/users/our-team/7.jpg" alt="REDSYS" />
-                        <div className="ps-block__content">
-                            <h4>Robert Downey Jr</h4>
-                            <p>CEO Fouder</p>
-                            <ul>
-                                <li>
-                                    <a href="#">
-                                        <i className="fa fa-twitter"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <i className="fa fa-facebook"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <i className="fa fa-linkedin"></i>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </figure>
-                <figure data-mh="our-team">
-                    <div className="ps-block--ourteam blank">
-                        <a href="#">
-                            Become <br /> member in <br /> team
-                        </a>
                     </div>
                 </figure>
             </div>

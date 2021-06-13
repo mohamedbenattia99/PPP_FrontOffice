@@ -8,7 +8,7 @@ const DescriptionFullContent = () => (
             <h5>Embodying the Raw, Wayward Spirit of Rock 'N' Roll</h5>
             <p>
                 Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active
-                stereo speaker takes the unmistakable look and sound of Marshall, unplugs the
+                stereo speaker takes the unmistakable look and sound of Hugo Boss, unplugs the
                 chords, and takes the show on the road.
             </p>
             <p>
@@ -20,9 +20,9 @@ const DescriptionFullContent = () => (
                 preferences while the guitar-influenced leather strap enables easy and stylish
                 travel.
             </p>
-            <img className="mb-30" src="/static/img/products/detail/content/description.jpg" alt="REDSYS" />
+            <img className="mb-30" src="/static/img/products/detail/content/description.jpg" alt="EASYCHIC" />
             <h5>What do you get</h5>
-            <p>Sound of Marshall, unplugs the chords, and takes the show on the road.</p>
+            <p>Sound of Hugo Boss, unplugs the chords, and takes the show on the road.</p>
             <p>
                 Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled
                 engineering. Setting the bar as one of the loudest speakers in its class, the

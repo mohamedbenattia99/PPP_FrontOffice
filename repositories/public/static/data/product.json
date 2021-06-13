@@ -2,12 +2,12 @@
     "relatedProduct": [
         {
             "id": 55,
-            "title": "Baxter Care Hair Kit For Bearded Mens",
+            "title": "Costume Complet Hugo Boss",
             "is_featured": false,
             "is_hot": false,
             "price": 60,
             "sale_price": 42,
-            "vendor": "Young Shop",
+            "vendor": "EasyChic Shop",
             "review": 4,
             "is_out_of_stock": false,
             "depot": 70,
@@ -30,7 +30,7 @@
                     "ext": ".jpg",
                     "mime": "image/jpeg",
                     "size": 58.88,
-                    "url": "/static/uploads/1ca5fe0793e545669c16a8e7c7b68348.jpg",
+                    "url": "/static/uploads/13.JPG",
                     "previewUrl": null,
                     "provider": "local",
                     "provider_metadata": null,
@@ -117,7 +117,7 @@
             "product_categories": [
                 {
                     "id": 4,
-                    "name": "Health & Beauty",
+                    "name": "Prêt à Porter",
                     "slug": "health-and-beauty",
                     "description": null,
                     "created_at": "2020-03-14T10:25:51.376Z",
@@ -253,7 +253,7 @@
             "product_categories": [
                 {
                     "id": 4,
-                    "name": "Health & Beauty",
+                    "name": "Prêt à Porter",
                     "slug": "health-and-beauty",
                     "description": null,
                     "created_at": "2020-03-14T10:25:51.376Z",
@@ -379,7 +379,7 @@
             "product_categories": [
                 {
                     "id": 4,
-                    "name": "Health & Beauty",
+                    "name": "Prêt à Porter",
                     "slug": "health-and-beauty",
                     "description": null,
                     "created_at": "2020-03-14T10:25:51.376Z",
@@ -515,7 +515,7 @@
             "product_categories": [
                 {
                     "id": 4,
-                    "name": "Health & Beauty",
+                    "name": "Prêt à Porter",
                     "slug": "health-and-beauty",
                     "description": null,
                     "created_at": "2020-03-14T10:25:51.376Z",
@@ -632,8 +632,8 @@
             "product_categories": [
                 {
                     "id": 7,
-                    "name": "Phones & Accessories",
-                    "slug": "phones-and-accessories",
+                    "name": "Prêt à Porter",
+                    "slug": "pret-a-porter",
                     "description": null,
                     "created_at": "2020-03-14T10:26:54.185Z",
                     "updated_at": "2020-03-14T10:26:54.185Z"
@@ -644,7 +644,7 @@
                     "id": 1,
                     "name": "Apple",
                     "description": "",
-                    "slug": "apple",
+                    "slug": "Apple",
                     "created_at": "2020-03-14T10:30:03.468Z",
                     "updated_at": "2020-03-14T10:30:31.584Z"
                 }
@@ -749,8 +749,8 @@
             "product_categories": [
                 {
                     "id": 7,
-                    "name": "Phones & Accessories",
-                    "slug": "phones-and-accessories",
+                    "name": "Prêt à Porter",
+                    "slug": "pret-a-porter",
                     "description": null,
                     "created_at": "2020-03-14T10:26:54.185Z",
                     "updated_at": "2020-03-14T10:26:54.185Z"
@@ -761,7 +761,7 @@
                     "id": 1,
                     "name": "Apple",
                     "description": "",
-                    "slug": "apple",
+                    "slug": "Apple",
                     "created_at": "2020-03-14T10:30:03.468Z",
                     "updated_at": "2020-03-14T10:30:31.584Z"
                 }
@@ -837,8 +837,8 @@
             "product_categories": [
                 {
                     "id": 5,
-                    "name": "Computers & Technologies",
-                    "slug": "computers-and-technologies",
+                    "name": "Accesoires",
+                    "slug": "accesoires",
                     "description": null,
                     "created_at": "2020-03-14T10:26:11.462Z",
                     "updated_at": "2020-03-14T10:26:11.462Z"
@@ -849,7 +849,7 @@
                     "id": 1,
                     "name": "Apple",
                     "description": "",
-                    "slug": "apple",
+                    "slug": "Apple",
                     "created_at": "2020-03-14T10:30:03.468Z",
                     "updated_at": "2020-03-14T10:30:31.584Z"
                 }
@@ -942,7 +942,7 @@
         "is_hot": false,
         "price": 35.89,
         "sale_price": null,
-        "vendor": "Young shop",
+        "vendor": "EasyChic Shop",
         "review": 5,
         "is_out_of_stock": false,
         "depot": 50,
@@ -1033,8 +1033,8 @@
         "product_categories": [
             {
                 "id": 1,
-                "name": "Clothing & Apparel",
-                "slug": "clothing-and-parel",
+                "name": "Prêt à Porter",
+                "slug": "Pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:24:42.894Z",
                 "updated_at": "2020-04-17T08:41:15.412Z"
@@ -1043,9 +1043,9 @@
         "brands": [
             {
                 "id": 8,
-                "name": "Gucci",
+                "name": "Apple",
                 "description": null,
-                "slug": "gucci",
+                "slug": "Apple",
                 "created_at": "2020-03-14T10:32:29.669Z",
                 "updated_at": "2020-03-14T10:32:29.669Z"
             }
@@ -1248,12 +1248,12 @@
     },
     "extended": {
         "id": 3,
-        "title": "Marshall Kilburn Portable Wireless Speaker",
+        "title": "Costume Bleu Chic Hugo Boss",
         "is_featured": false,
         "is_hot": false,
         "price": 42.99,
         "sale_price": null,
-        "vendor": "Go Pro",
+        "vendor": "Hugo Boss",
         "review": 5,
         "is_out_of_stock": false,
         "depot": 85,
@@ -1276,7 +1276,7 @@
                 "ext": ".jpg",
                 "mime": "image/jpeg",
                 "size": 158.75,
-                "url": "/static/uploads/3398b7a330154c9390db4495b9e3d413.jpg",
+                "url": "/static/uploads/10.JPG",
                 "previewUrl": null,
                 "provider": "local",
                 "provider_metadata": null,
@@ -1334,7 +1334,7 @@
             "ext": ".jpg",
             "mime": "image/jpeg",
             "size": 15.15,
-            "url": "/static/uploads/feaeaa8c5d24474e943f57a7df55e921.jpg",
+            "url": "/static/uploads/10.JPG",
             "previewUrl": null,
             "provider": "local",
             "provider_metadata": null,
@@ -1344,8 +1344,8 @@
         "product_categories": [
             {
                 "id": 3,
-                "name": "Consumer Electrics",
-                "slug": "consumer-electrics",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:25:39.408Z",
                 "updated_at": "2020-03-14T10:25:39.408Z"
@@ -1354,9 +1354,9 @@
         "brands": [
             {
                 "id": 2,
-                "name": "Marshall",
+                "name": "Hugo Boss",
                 "description": null,
-                "slug": "marshall",
+                "slug": "Hugo Boss",
                 "created_at": "2020-03-14T10:31:31.138Z",
                 "updated_at": "2020-03-14T10:31:31.138Z"
             }
@@ -1411,7 +1411,7 @@
         "is_hot": false,
         "price": 96,
         "sale_price": 85,
-        "vendor": "Young Shop",
+        "vendor": "EasyChic Shop",
         "review": 5,
         "is_out_of_stock": false,
         "depot": 50,
@@ -1521,8 +1521,8 @@
         "product_categories": [
             {
                 "id": 7,
-                "name": "Phones & Accessories",
-                "slug": "phones-and-accessories",
+                "name": "Prêt à Porter",
+                "slug": "pret-a-porter",
                 "description": null,
                 "created_at": "2020-03-14T10:26:54.185Z",
                 "updated_at": "2020-03-14T10:26:54.185Z"
@@ -1531,9 +1531,9 @@
         "brands": [
             {
                 "id": 2,
-                "name": "Marshall",
+                "name": "Hugo Boss",
                 "description": null,
-                "slug": "marshall",
+                "slug": "Hugo Boss",
                 "created_at": "2020-03-14T10:31:31.138Z",
                 "updated_at": "2020-03-14T10:31:31.138Z"
             }

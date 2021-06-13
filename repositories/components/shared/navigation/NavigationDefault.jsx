@@ -32,7 +32,7 @@ class NavigationDefault extends Component {
                             <a className="ps-logo">
                                 <img
                                     src="/static/img/logo_light.png"
-                                    alt="REDSYS"
+                                    alt="EASYCHIC"
                                 />
                             </a>
                         </Link>

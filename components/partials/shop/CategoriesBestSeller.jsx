@@ -25,7 +25,7 @@ class CategoriesBestSeller extends Component {
                     <ul className="ps-section__links">
                         <li>
                             <Link href="/shop">
-                                <a>Clothing & Apparel</a>
+                                <a>Prêt à Porter</a>
                             </Link>
                         </li>
                         <li>
@@ -35,7 +35,7 @@ class CategoriesBestSeller extends Component {
                         </li>
                         <li>
                             <Link href="/shop">
-                                <a>Consumer Electrics</a>
+                                <a>Prêt à Porter</a>
                             </Link>
                         </li>
                     </ul>

@@ -84,7 +84,7 @@ class Product extends Component {
                                             ? `${baseUrl}${product.thumbnail.url}`
                                             : product.thumbnail.url
                                     }
-                                    alt="REDSYS"
+                                    alt="EASYCHIC"
                                 />
                             </LazyLoad>
                         </a>
@@ -139,7 +139,7 @@ class Product extends Component {
                 </div>
                 <div className="ps-product__container">
                     <Link href="/shop">
-                        <a className="ps-product__vendor">Young Shop</a>
+                        <a className="ps-product__vendor">EasyChic Shop</a>
                     </Link>
                     <div className="ps-product__content">
                         <Link

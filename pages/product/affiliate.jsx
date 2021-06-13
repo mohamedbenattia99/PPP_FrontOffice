@@ -18,7 +18,7 @@ const ProductAffiliatePage = () => {
             url: '/',
         },
         {
-            text: 'Consumer Electrics',
+            text: 'Prêt à Porter',
             url: '/shop',
         },
         {
@@ -26,7 +26,7 @@ const ProductAffiliatePage = () => {
             url: '/shop',
         },
         {
-            text: 'Marshall Kilburn Portable Wireless Speaker',
+            text: 'Costume Bleu Chic Hugo Boss',
         },
     ];
 

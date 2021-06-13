@@ -8,8 +8,6 @@ import Rating from '../Rating';
 import { baseUrl } from '../../../repositories/Repository';
 import { formatCurrency } from '../../../utilities/product-helper';
 import { addItem } from '../../../store/cart/action';
-import { addItemToCompare } from '../../../store/compare/action';
-import { addItemToWishlist } from '../../../store/wishlist/action';
 import { isStaticData } from '../../../utilities/app-settings';
 
 class Product extends Component {
@@ -24,18 +22,6 @@ class Product extends Component {
         e.preventDefault();
         const { product } = this.props;
         this.props.dispatch(addItem(product));
-    };
-
-    handleAddItemToCompare = (e) => {
-        e.preventDefault();
-        const { product } = this.props;
-        this.props.dispatch(addItemToCompare(product));
-    };
-
-    handleAddItemToWishlist = (e) => {
-        e.preventDefault();
-        const { product } = this.props;
-        this.props.dispatch(addItemToWishlist(product));
     };
 
     handleShowQuickView = (e) => {
@@ -84,7 +70,7 @@ class Product extends Component {
                                             ? `${baseUrl}${product.thumbnail.url}`
                                             : product.thumbnail.url
                                     }
-                                    alt="REDSYS"
+                                    alt="EASYCHIC"
                                 />
                             </LazyLoad>
                         </a>
@@ -111,35 +97,11 @@ class Product extends Component {
                                 <i className="icon-eye"></i>
                             </a>
                         </li>
-                        <li>
-                            <a
-                                href="#"
-                                data-toggle="tooltip"
-                                data-placement="top"
-                                title="Add to wishlist"
-                                onClick={this.handleAddItemToWishlist.bind(
-                                    this
-                                )}>
-                                <i className="icon-heart"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a
-                                href="#"
-                                data-toggle="tooltip"
-                                data-placement="top"
-                                title="Compare"
-                                onClick={this.handleAddItemToCompare.bind(
-                                    this
-                                )}>
-                                <i className="icon-chart-bars"></i>
-                            </a>
-                        </li>
                     </ul>
                 </div>
                 <div className="ps-product__container">
                     <Link href="/shop">
-                        <a className="ps-product__vendor">Young Shop</a>
+                        <a className="ps-product__vendor">EasyChic Shop</a>
                     </Link>
                     <div className="ps-product__content">
                         <Link
@@ -153,16 +115,16 @@ class Product extends Component {
                         </div>
                         {product.is_sale === true ? (
                             <p className="ps-product__price sale">
-                                {currency ? currency.symbol : '$'}
+                                {currency ? currency.symbol : 'DT'}
                                 {formatCurrency(product.price)}
                                 <del className="ml-2">
-                                    {currency ? currency.symbol : '$'}
+                                    {currency ? currency.symbol : 'DT'}
                                     {formatCurrency(product.sale_price)}
                                 </del>
                             </p>
                         ) : (
                             <p className="ps-product__price">
-                                {currency ? currency.symbol : '$'}
+                                {currency ? currency.symbol : 'DT'}
                                 {formatCurrency(product.price)}
                             </p>
                         )}
@@ -175,16 +137,16 @@ class Product extends Component {
                         </Link>
                         {product.is_sale === true ? (
                             <p className="ps-product__price sale">
-                                {currency ? currency.symbol : '$'}
+                                {currency ? currency.symbol : 'DT'}
                                 {formatCurrency(product.price)}{' '}
                                 <del className="ml-2">
-                                    {currency ? currency.symbol : '$'}
+                                    {currency ? currency.symbol : 'DT'}
                                     {product.sale_price}
                                 </del>
                             </p>
                         ) : (
                             <p className="ps-product__price">
-                                {currency ? currency.symbol : '$'}
+                                {currency ? currency.symbol : 'DT'}
                                 {formatCurrency(product.price)}
                             </p>
                         )}

@@ -7,10 +7,10 @@ const FooterWidgets = () => (
             <h4 className="widget-title">Contactez nous</h4>
             <div className="widget_content">
 
-                <h3>+216 </h3>
+                <h3>+216 58457575</h3>
                 <p>
-                    502 New Design Str, Melbourne, Australia <br />
-                    <a href="mailto:contact@REDSYS.co">contact@REDSYS.co</a>
+                   676 INSAT Centre Urbain Nord BP، Tunis Cedex 1080 <br />
+                    <a href="mailto:contact@EASYCHIC.co">contact@EASYCHIC.com</a>
                 </p>
                 <ul className="ps-list--social">
                     <li>
@@ -37,43 +37,7 @@ const FooterWidgets = () => (
             </div>
         </aside>
         <aside className="widget widget_footer">
-            <h4 className="widget-title">Quick links</h4>
-            <ul className="ps-list--link">
-                <li>
-                    <Link href="/page/blank">
-                        <a>Policy</a>
-                    </Link>
-                </li>
-
-                <li>
-                    <Link href="/page/blank">
-                        <a>Term & Condition</a>
-                    </Link>
-                </li>
-                <li>
-                    <Link href="/page/blank">
-                        <a>Term & Condition</a>
-                    </Link>
-                </li>
-                <li>
-                    <Link href="/page/blank">
-                        <a>Shipping</a>
-                    </Link>
-                </li>
-                <li>
-                    <Link href="/page/blank">
-                        <a>Return</a>
-                    </Link>
-                </li>
-                <li>
-                    <Link href="/page/faqs">
-                        <a>FAQs</a>
-                    </Link>
-                </li>
-            </ul>
-        </aside>
-        <aside className="widget widget_footer">
-            <h4 className="widget-title">Company</h4>
+            <h4 className="widget-title">Quick Links</h4>
             <ul className="ps-list--link">
                 <li>
                     <Link href="/page/about-us">
@@ -81,13 +45,8 @@ const FooterWidgets = () => (
                     </Link>
                 </li>
                 <li>
-                    <Link href="/page/blank">
-                        <a>Affilate</a>
-                    </Link>
-                </li>
-                <li>
-                    <Link href="/page/blank">
-                        <a>Career</a>
+                    <Link href="/shop">
+                        <a>Shop</a>
                     </Link>
                 </li>
                 <li>
@@ -98,13 +57,8 @@ const FooterWidgets = () => (
             </ul>
         </aside>
         <aside className="widget widget_footer">
-            <h4 className="widget-title">Bussiness</h4>
+            <h4 className="widget-title">Navigate</h4>
             <ul className="ps-list--link">
-                <li>
-                    <Link href="/page/about-us">
-                        <a>Our Press</a>
-                    </Link>
-                </li>
                 <li>
                     <Link href="/account/checkout">
                         <a>Checkout</a>
@@ -113,11 +67,6 @@ const FooterWidgets = () => (
                 <li>
                     <Link href="/account/user-information">
                         <a>My account</a>
-                    </Link>
-                </li>
-                <li>
-                    <Link href="/shop">
-                        <a>Shop</a>
                     </Link>
                 </li>
             </ul>

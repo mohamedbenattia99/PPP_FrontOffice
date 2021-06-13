@@ -74,7 +74,7 @@ class AboutAwards extends Component {
                                     <a>
                                         <img
                                             src="/static/img/awards/1.png"
-                                            alt="REDSYS"
+                                            alt="EASYCHIC"
                                         />
                                     </a>
                                 </Link>
@@ -84,7 +84,7 @@ class AboutAwards extends Component {
                                     <a>
                                         <img
                                             src="/static/img/awards/2.png"
-                                            alt="REDSYS"
+                                            alt="EASYCHIC"
                                         />
                                     </a>
                                 </Link>
@@ -94,7 +94,7 @@ class AboutAwards extends Component {
                                     <a>
                                         <img
                                             src="/static/img/awards/3.png"
-                                            alt="REDSYS"
+                                            alt="EASYCHIC"
                                         />
                                     </a>
                                 </Link>
@@ -104,7 +104,7 @@ class AboutAwards extends Component {
                                     <a>
                                         <img
                                             src="/static/img/awards/4.png"
-                                            alt="REDSYS"
+                                            alt="EASYCHIC"
                                         />
                                     </a>
                                 </Link>
@@ -114,7 +114,7 @@ class AboutAwards extends Component {
                                     <a>
                                         <img
                                             src="/static/img/awards/5.png"
-                                            alt="REDSYS"
+                                            alt="EASYCHIC"
                                         />
                                     </a>
                                 </Link>

@@ -20,7 +20,7 @@ class VendorStore extends Component {
                                 <div className="ps-block__thumbnail">
                                     <img
                                         src="/static/img/vendor/vendor-store.jpg"
-                                        alt="REDSYS"
+                                        alt="EASYCHIC"
                                     />
                                 </div>
                                 <div className="ps-block__container">

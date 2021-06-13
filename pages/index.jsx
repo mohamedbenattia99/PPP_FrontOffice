@@ -10,8 +10,6 @@ import Clothings from '../components/partials/homepage/home-default/Clothings';
 import GardenAndKitchen from '../components/partials/homepage/home-default/GardenAndKitchen';
 import HomeAds from '../components/partials/homepage/home-default/HomeAds';
 import DownLoadApp from '../components/partials/commons/DownLoadApp';
-import NewArrivals from '../components/partials/homepage/home-default/NewArrivals';
-import Newletters from '../components/partials/commons/Newletters';
 import HeaderMobile from '../components/shared/headers/HeaderMobile';
 import NavigationList from '../components/shared/navigation/NavigationList';
 import HomeDefaultDealOfDay from '../components/partials/homepage/home-default/HomeDefaultDealOfDay';
@@ -72,6 +70,7 @@ class Index extends Component {
                 <main id="homepage-1">
                     <HomeBanner />
                     <SiteFeatures />
+                    <DownLoadApp />
                     <HomeDefaultDealOfDay collectionSlug="deal-of-the-day" />
                     <HomeAdsColumns />
                     <HomeDefaultTopCategories />
@@ -79,9 +78,6 @@ class Index extends Component {
                     <Clothings collectionSlug="clothings" />
                     <GardenAndKitchen collectionSlug="garden-and-kitchen" />
                     <HomeAds />
-                    <DownLoadApp />
-                    <NewArrivals collectionSlug="new-arrivals-products" />
-                    <Newletters />
                 </main>
                 <FooterFullwidth />
             </div>

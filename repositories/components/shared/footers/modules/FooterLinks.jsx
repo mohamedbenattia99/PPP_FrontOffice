@@ -139,7 +139,7 @@ const Links = {
             url: '/boutique'
         },
         {
-            text: 'Gucci',
+            text: 'Apple',
             url: '/boutique'
         }
     ],

@@ -42,7 +42,7 @@ class ProductGrouppedPage extends Component {
                 url: '/',
             },
             {
-                text: 'Consumer Electrics',
+                text: 'Prêt à Porter',
                 url: '/shop',
             },
             {

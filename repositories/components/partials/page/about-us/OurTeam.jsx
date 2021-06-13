@@ -9,7 +9,7 @@ const OurTeam = () => (
             <div className="ps-section__content">
                 <figure>
                     <div className="ps-block--ourteam">
-                        <img src="/static/img/users/our-team/1.jpg" alt="REDSYS" />
+                        <img src="/static/img/users/our-team/1.jpg" alt="EASYCHIC" />
                         <div className="ps-block__content">
                             <h4>Robert Downey Jr</h4>
                             <p>CEO Fouder</p>
@@ -35,7 +35,7 @@ const OurTeam = () => (
                 </figure>
                 <figure>
                     <div className="ps-block--ourteam">
-                        <img src="/static/img/users/our-team/2.jpg" alt="REDSYS" />
+                        <img src="/static/img/users/our-team/2.jpg" alt="EASYCHIC" />
                         <div className="ps-block__content">
                             <h4>Robert Downey Jr</h4>
                             <p>CEO Fouder</p>
@@ -61,7 +61,7 @@ const OurTeam = () => (
                 </figure>
                 <figure>
                     <div className="ps-block--ourteam">
-                        <img src="/static/img/users/our-team/3.jpg" alt="REDSYS" />
+                        <img src="/static/img/users/our-team/3.jpg" alt="EASYCHIC" />
                         <div className="ps-block__content">
                             <h4>Robert Downey Jr</h4>
                             <p>CEO Fouder</p>
@@ -87,7 +87,7 @@ const OurTeam = () => (
                 </figure>
                 <figure>
                     <div className="ps-block--ourteam">
-                        <img src="/static/img/users/our-team/4.jpg" alt="REDSYS" />
+                        <img src="/static/img/users/our-team/4.jpg" alt="EASYCHIC" />
                         <div className="ps-block__content">
                             <h4>Robert Downey Jr</h4>
                             <p>CEO Fouder</p>
@@ -113,7 +113,7 @@ const OurTeam = () => (
                 </figure>
                 <figure>
                     <div className="ps-block--ourteam">
-                        <img src="/static/img/users/our-team/5.jpg" alt="REDSYS" />
+                        <img src="/static/img/users/our-team/5.jpg" alt="EASYCHIC" />
                         <div className="ps-block__content">
                             <h4>Robert Downey Jr</h4>
                             <p>CEO Fouder</p>
@@ -139,7 +139,7 @@ const OurTeam = () => (
                 </figure>
                 <figure>
                     <div className="ps-block--ourteam">
-                        <img src="/static/img/users/our-team/6.jpg" alt="REDSYS" />
+                        <img src="/static/img/users/our-team/6.jpg" alt="EASYCHIC" />
                         <div className="ps-block__content">
                             <h4>Robert Downey Jr</h4>
                             <p>CEO Fouder</p>
@@ -165,7 +165,7 @@ const OurTeam = () => (
                 </figure>
                 <figure>
                     <div className="ps-block--ourteam">
-                        <img src="/static/img/users/our-team/7.jpg" alt="REDSYS" />
+                        <img src="/static/img/users/our-team/7.jpg" alt="EASYCHIC" />
                         <div className="ps-block__content">
                             <h4>Robert Downey Jr</h4>
                             <p>CEO Fouder</p>

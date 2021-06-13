@@ -19,7 +19,7 @@ class ProductResult extends Component {
                 <div className="ps-product__thumbnail">
                     <Link href="/product/[pid]" as={`/product/${product.id}`}>
                         <a>
-                            <img src={isStaticData === true ? product.thumbnail.url : `${baseUrl}${product.thumbnail.url}`} alt="REDSYS" />
+                            <img src={isStaticData === true ? product.thumbnail.url : `${baseUrl}${product.thumbnail.url}`} alt="EASYCHIC" />
                         </a>
                     </Link>
                 </div>

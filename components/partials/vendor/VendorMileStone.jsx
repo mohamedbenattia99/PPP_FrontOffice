@@ -6,7 +6,7 @@ const VendorMileStone = () => (
             <div className="ps-section__header">
                 <p>How it works</p>
                 <h4>
-                    Easy to start selling online on REDSYS just 4 simple steps
+                    Easy to start selling online on EASYCHIC just 4 simple steps
                 </h4>
             </div>
             <div className="ps-section__content">
@@ -20,14 +20,14 @@ const VendorMileStone = () => (
                                 run your online business
                             </li>
                             <li>
-                                Our REDSYS Advisors will help you at every
+                                Our EASYCHIC Advisors will help you at every
                                 step and fully assist you in taking your
                                 business online
                             </li>
                         </ul>
                     </div>
                     <div className="ps-block__right">
-                        <img src="/static/img/vendor/milestone-1.png" alt="REDSYS" />
+                        <img src="/static/img/vendor/milestone-1.png" alt="EASYCHIC" />
                     </div>
                     <div className="ps-block__number">
                         <span>1</span>
@@ -43,14 +43,14 @@ const VendorMileStone = () => (
                                 run your online business
                             </li>
                             <li>
-                                Our REDSYS Advisors will help you at every
+                                Our EASYCHIC Advisors will help you at every
                                 step and fully assist you in taking your
                                 business online
                             </li>
                         </ul>
                     </div>
                     <div className="ps-block__right">
-                        <img src="/static/img/vendor/milestone-2.png" alt="REDSYS" />
+                        <img src="/static/img/vendor/milestone-2.png" alt="EASYCHIC" />
                     </div>
                     <div className="ps-block__number">
                         <span>2</span>
@@ -66,14 +66,14 @@ const VendorMileStone = () => (
                                 run your online business
                             </li>
                             <li>
-                                Our REDSYS Advisors will help you at every
+                                Our EASYCHIC Advisors will help you at every
                                 step and fully assist you in taking your
                                 business online
                             </li>
                         </ul>
                     </div>
                     <div className="ps-block__right">
-                        <img src="/static/img/vendor/milestone-3.png" alt="REDSYS" />
+                        <img src="/static/img/vendor/milestone-3.png" alt="EASYCHIC" />
                     </div>
                     <div className="ps-block__number">
                         <span>3</span>
@@ -89,14 +89,14 @@ const VendorMileStone = () => (
                                 run your online business
                             </li>
                             <li>
-                                Our REDSYS Advisors will help you at every
+                                Our EASYCHIC Advisors will help you at every
                                 step and fully assist you in taking your
                                 business online
                             </li>
                         </ul>
                     </div>
                     <div className="ps-block__right">
-                        <img src="/static/img/vendor/milestone-4.png" alt="REDSYS" />
+                        <img src="/static/img/vendor/milestone-4.png" alt="EASYCHIC" />
                     </div>
                     <div className="ps-block__number">
                         <span>4</span>

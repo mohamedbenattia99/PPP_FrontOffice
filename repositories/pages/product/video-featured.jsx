@@ -41,7 +41,7 @@ class ProductMultiVendorPage extends Component {
                 url: '/',
             },
             {
-                text: 'Consumer Electrics',
+                text: 'Prêt à Porter',
                 url: '/boutique',
             },
             {
@@ -49,7 +49,7 @@ class ProductMultiVendorPage extends Component {
                 url: '/boutique',
             },
             {
-                text: 'Marshall Kilburn Portable Wireless Speaker',
+                text: 'Costume Bleu Chic Hugo Boss',
             },
         ];
         return (

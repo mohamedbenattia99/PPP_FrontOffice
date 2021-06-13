@@ -43,7 +43,7 @@ class SubscribePopup extends Component {
                                     Get <strong>25%</strong> Discount
                                 </h4>
                                 <p>
-                                    Subscribe to the REDSYS mailing list{' '}
+                                    Subscribe to the EASYCHIC mailing list{' '}
                                     <br /> to receive updates on new arrivals,
                                     special offers
                                     <br /> and our promotions.

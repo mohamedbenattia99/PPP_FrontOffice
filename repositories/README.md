@@ -1,18 +1,25 @@
-## JEI-RedSys-ClientSide
+## JEI-EASYCHIC-ClientSide
+
 ### Installation
+
 ```bash
 npm install
 ```
+
 or Yarn
+
 ```bash
-yarn install 
-```
-### Develope
-```bash
-yarn dev 
-```
-Or
-```bash
-npm run dev 
+yarn install
 ```
 
+### Develope
+
+```bash
+yarn dev
+```
+
+Or
+
+```bash
+npm run dev
+```

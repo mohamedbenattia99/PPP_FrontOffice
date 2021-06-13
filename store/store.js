@@ -37,7 +37,7 @@ const bindMiddleware = middleware => {
 };
 
 const persistConfig = {
-    key: 'REDSYS',
+    key: 'EASYCHIC',
     storage : storage,
     whitelist: ['cart', 'compare', 'auth', 'wishlist'],
 };

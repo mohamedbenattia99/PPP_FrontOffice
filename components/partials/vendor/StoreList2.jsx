@@ -49,7 +49,7 @@ const StoreList2 = () => (
                             </div>
                             <div className="ps-block__author">
                                 <a className="ps-block__user" href="#">
-                                    <img src="/static/img/vendor/store/vendor-150x150.jpg" alt="REDSYS" />
+                                    <img src="/static/img/vendor/store/vendor-150x150.jpg" alt="EASYCHIC" />
                                 </a>
                                 <a className="ps-btn" href="store-detail.html">
                                     Visit Store
@@ -65,7 +65,7 @@ const StoreList2 = () => (
                                     background: `url('/static/img/vendor/store/default-store-banner.png')`,
                                 }}>
                                 <figure>
-                                    <h4>Young Shop</h4>
+                                    <h4>EasyChic Shop</h4>
                                     <div className="ps-block__rating">
                                         <Rating/>
                                     </div>
@@ -79,7 +79,7 @@ const StoreList2 = () => (
                             </div>
                             <div className="ps-block__author">
                                 <a className="ps-block__user" href="#">
-                                    <img src="/static/img/vendor/store/vendor-150x150.jpg" alt="REDSYS" />
+                                    <img src="/static/img/vendor/store/vendor-150x150.jpg" alt="EASYCHIC" />
                                 </a>
                                 <a className="ps-btn" href="store-detail.html">
                                     Visit Store
@@ -95,7 +95,7 @@ const StoreList2 = () => (
                                     background: `url('/static/img/vendor/store/default-store-banner.png')`,
                                 }}>
                                 <figure>
-                                    <h4>Robert’s Store</h4>
+                                    <h4>Apple</h4>
                                     <div className="ps-block__rating">
                                         <Rating/>
                                     </div>
@@ -109,7 +109,7 @@ const StoreList2 = () => (
                             </div>
                             <div className="ps-block__author">
                                 <a className="ps-block__user" href="#">
-                                    <img src="/static/img/vendor/store/vendor-150x150.jpg" alt="REDSYS" />
+                                    <img src="/static/img/vendor/store/vendor-150x150.jpg" alt="EASYCHIC" />
                                 </a>
                                 <a className="ps-btn" href="store-detail.html">
                                     Visit Store
@@ -125,7 +125,7 @@ const StoreList2 = () => (
                                     background: `url('/static/img/vendor/store/default-store-banner.png')`,
                                 }}>
                                 <figure>
-                                    <h4>Go Pro</h4>
+                                    <h4>Hugo Boss</h4>
                                     <div className="ps-block__rating">
                                         <Rating/>
                                     </div>
@@ -139,7 +139,7 @@ const StoreList2 = () => (
                             </div>
                             <div className="ps-block__author">
                                 <a className="ps-block__user" href="#">
-                                    <img src="/static/img/vendor/store/vendor-150x150.jpg" alt="REDSYS" />
+                                    <img src="/static/img/vendor/store/vendor-150x150.jpg" alt="EASYCHIC" />
                                 </a>
                                 <a className="ps-btn" href="store-detail.html">
                                     Visit Store

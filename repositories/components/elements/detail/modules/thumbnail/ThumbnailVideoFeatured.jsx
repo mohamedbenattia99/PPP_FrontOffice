@@ -56,7 +56,7 @@ class ThumbnailVideoFeatured extends Component {
                                 <a href="/static/img/products/detail/fullwidth/1.jpg">
                                     <img
                                         src="/static/img/products/detail/fullwidth/1.jpg"
-                                        alt="REDSYS"
+                                        alt="EASYCHIC"
                                     />
                                 </a>
                             </div>
@@ -64,7 +64,7 @@ class ThumbnailVideoFeatured extends Component {
                                 <a href="/static/img/products/detail/fullwidth/2.jpg">
                                     <img
                                         src="/static/img/products/detail/fullwidth/2.jpg"
-                                        alt="REDSYS"
+                                        alt="EASYCHIC"
                                     />
                                 </a>
                             </div>
@@ -72,7 +72,7 @@ class ThumbnailVideoFeatured extends Component {
                                 <a href="/static/img/products/detail/fullwidth/23.jpg">
                                     <img
                                         src="/static/img/products/detail/fullwidth/3.jpg"
-                                        alt="REDSYS"
+                                        alt="EASYCHIC"
                                     />
                                 </a>
                             </div>
@@ -82,7 +82,7 @@ class ThumbnailVideoFeatured extends Component {
                                     onClick={e => this.handleOpenModal(e)}>
                                     <img
                                         src="/static/img/products/detail/fullwidth/3.jpg"
-                                        alt="REDSYS"
+                                        alt="EASYCHIC"
                                     />
                                 </a>
                                 <Modal
@@ -119,19 +119,19 @@ class ThumbnailVideoFeatured extends Component {
                     <div className="item">
                         <img
                             src="/static/img/products/detail/fullwidth/1.jpg"
-                            alt="REDSYS"
+                            alt="EASYCHIC"
                         />
                     </div>
                     <div className="item">
                         <img
                             src="/static/img/products/detail/fullwidth/2.jpg"
-                            alt="REDSYS"
+                            alt="EASYCHIC"
                         />
                     </div>
                     <div className="item">
                         <img
                             src="/static/img/products/detail/fullwidth/3.jpg"
-                            alt="REDSYS"
+                            alt="EASYCHIC"
                         />
                     </div>
                     <div className="item">
@@ -141,7 +141,7 @@ class ThumbnailVideoFeatured extends Component {
                                 onClick={e => e.preventDefault()}>
                                 <img
                                     src="/static/img/products/detail/fullwidth/3.jpg"
-                                    alt="REDSYS"
+                                    alt="EASYCHIC"
                                 />
                             </a>
                         </div>

@@ -27,23 +27,6 @@ class ConsumerElectronics extends Component {
         const { collections, collectionSlug } = this.props;
         const { currentCollection, items } = this.state;
         const products = getColletionBySlug(collections, collectionSlug);
-        const sectionLinks = [
-            {
-                title: 'New Arrivals',
-                name: 'newArrivals',
-                slug: 'consumer_electronics',
-            },
-            {
-                title: 'Best seller',
-                name: 'bestSeller',
-                slug: 'fullwidth-consumer-electronic-best-seller',
-            },
-            {
-                title: 'Most Popular',
-                name: 'mostPopular',
-                slug: 'fullwidth-consumer-electronic-most-popular',
-            },
-        ];
         let sectionItems;
         if (currentCollection !== 'newArrivals') {
             sectionItems = <CollectionProducts products={items} />;
@@ -60,26 +43,6 @@ class ConsumerElectronics extends Component {
                     <div className="ps-section__header">
                         <h3>Consumer Electronics</h3>
                         <ul className="ps-section__links">
-                            {sectionLinks.map(link => (
-                                <li
-                                    className={
-                                        currentCollection === link.name
-                                            ? 'active'
-                                            : ''
-                                    }
-                                    key={link.name}>
-                                    <a
-                                        onClick={e =>
-                                            this.handleChangeProduct(
-                                                e,
-                                                link.name,
-                                                link.slug
-                                            )
-                                        }>
-                                        {link.title}
-                                    </a>
-                                </li>
-                            ))}
                             <li>
                                 <Link href="/shop">
                                     <a>View All</a>

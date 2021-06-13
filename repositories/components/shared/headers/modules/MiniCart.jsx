@@ -49,7 +49,7 @@ class MiniCart extends Component {
                                                                         .thumbnail
                                                                         .url
                                                           }
-                                                          alt="REDSYS"
+                                                          alt="EASYCHIC"
                                                       />
                                                   </a>
                                               </Link>

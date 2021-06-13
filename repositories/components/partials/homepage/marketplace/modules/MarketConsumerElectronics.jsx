@@ -80,19 +80,19 @@ class MarketConsumerElectronics extends Component {
                         <a>
                             <img
                                 src="/static/img/slider/home-3/electronic-1.jpg"
-                                alt="REDSYS"
+                                alt="EASYCHIC"
                             />
                         </a>
                         <a>
                             <img
                                 src="/static/img/slider/home-3/electronic-2.jpg"
-                                alt="REDSYS"
+                                alt="EASYCHIC"
                             />
                         </a>
                         <a>
                             <img
                                 src="/static/img/slider/home-3/electronic-3.jpg"
-                                alt="REDSYS"
+                                alt="EASYCHIC"
                             />
                         </a>
                     </Slider>

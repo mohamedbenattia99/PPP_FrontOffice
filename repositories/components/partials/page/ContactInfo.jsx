@@ -13,8 +13,8 @@ const ContactInfo = () => (
                         <div className="ps-block--contact-info">
                             <h4>Contact Directly</h4>
                             <p>
-                                <a href="mailto:contact@REDSYS.com">
-                                    contact@REDSYS.com
+                                <a href="mailto:contact@EASYCHIC.com">
+                                    contact@EASYCHIC.com
                                 </a>
                                 <span>(+004) 912-3548-07</span>
                             </p>
@@ -36,7 +36,7 @@ const ContactInfo = () => (
                             <h4>Work With Us</h4>
                             <p>
                                 <span>Send your CV to our email:</span>
-                                <a href="#">career@REDSYS.com</a>
+                                <a href="#">career@EASYCHIC.com</a>
                             </p>
                         </div>
                     </div>
@@ -44,7 +44,7 @@ const ContactInfo = () => (
                         <div className="ps-block--contact-info">
                             <h4>Customer Service</h4>
                             <p>
-                                <a href="#">customercare@REDSYS.com</a>
+                                <a href="#">customercare@EASYCHIC.com</a>
                                 <span>(800) 843-2446</span>
                             </p>
                         </div>
@@ -53,7 +53,7 @@ const ContactInfo = () => (
                         <div className="ps-block--contact-info">
                             <h4>Media Relations</h4>
                             <p>
-                                <a href="#">media@REDSYS.com</a>
+                                <a href="#">media@EASYCHIC.com</a>
                                 <span>(801) 947-3564</span>
                             </p>
                         </div>
@@ -62,7 +62,7 @@ const ContactInfo = () => (
                         <div className="ps-block--contact-info">
                             <h4>Vendor Support</h4>
                             <p>
-                                <a href="#">vendorsupport@REDSYS.com</a>
+                                <a href="#">vendorsupport@EASYCHIC.com</a>
                                 <span>(801) 947-3100</span>
                             </p>
                         </div>

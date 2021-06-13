@@ -14,9 +14,9 @@ class MarketPlaceProductBox extends Component {
         return (
             <div className="ps-section--gray">
                 <div className="container">
-                    <MarketClothingsAndApparel collectionSlug="clothing-and-parel" />
-                    <MarketConsumerElectronics collectionSlug="consumer-electrics" />
-                    <MarketComputerAndTechnology collectionSlug="computers-and-technologies" />
+                    <MarketClothingsAndApparel collectionSlug="Pret-a-porter" />
+                    <MarketConsumerElectronics collectionSlug="pret-a-porter" />
+                    <MarketComputerAndTechnology collectionSlug="accesoires" />
                     <MarketGardenAndKitchen collectionSlug="garden-and-kitchen" />
                     <MarketHeathyAndBeauty collectionSlug="health-and-beauty" />
                 </div>

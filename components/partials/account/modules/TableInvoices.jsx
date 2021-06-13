@@ -12,7 +12,7 @@ class TableInvoices extends Component {
             {
                 id: '1',
                 invoiceId: '500884010',
-                title: 'Marshall Kilburn Portable Wireless Speaker',
+                title: 'Costume Bleu Chic Hugo Boss',
                 dateCreate: '20-1-2020',
                 amount: '42.99',
                 status: 'Successful delivery',

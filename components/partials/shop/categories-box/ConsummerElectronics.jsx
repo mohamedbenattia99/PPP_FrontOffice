@@ -24,7 +24,7 @@ const ConsummerElectronics = ({ data }) => (
                     if (category.type === 'large') {
                         return (
                             <div className="ps-block__banner" key={category.text}>
-                                <img src={category.imagePath} alt="REDSYS" />
+                                <img src={category.imagePath} alt="EASYCHIC" />
                             </div>
                         );
                     } else {
@@ -33,7 +33,7 @@ const ConsummerElectronics = ({ data }) => (
                                 <Link href="/shop">
                                     <a className="ps-block__overlay"></a>
                                 </Link>
-                                <img src={category.imagePath} alt="REDSYS" />
+                                <img src={category.imagePath} alt="EASYCHIC" />
                                 <p>{category.text} </p>
                                 <span>{category.item} Items</span>
                             </div>

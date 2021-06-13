@@ -30,7 +30,7 @@ class ProductWidgets extends Component{
                 </aside>
                 <aside className="widget widget_sell-on-site">
                     <p>
-                        <i className="icon-store"></i> Sell on REDSYS?
+                        <i className="icon-store"></i> Sell on EASYCHIC?
                         <Link href="/account/register">
                             <a> Register Now !</a>
                         </Link>
@@ -39,7 +39,7 @@ class ProductWidgets extends Component{
                 <aside className="widget widget_ads">
                     <Link href="/boutique">
                         <a>
-                            <img src="/static/img/ads/product-ads.png" alt="REDSYS" />
+                            <img src="/static/img/ads/product-ads.png" alt="EASYCHIC" />
                         </a>
                     </Link>
                 </aside>

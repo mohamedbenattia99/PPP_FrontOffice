@@ -16,20 +16,20 @@
                         "heading": "Catégories",
                         "megaItems": [
                             {
-                                "text": "Health & Beauty",
-                                "url": "/shop?category=health-and-beauty"
+                                "text": "Prêt à Porter",
+                                "url": "/shop?category=pret-a-porter"
                             },
                             {
-                                "text": "Phone & Accessories",
-                                "url": "/shop?category=phones-and-accessories"
+                                "text": "Sac",
+                                "url": "/shop?category=sac"
                             },
                             {
-                                "text": "Clothing & Apparel",
-                                "url": "/shop?category=clothing-and-parel"
+                                "text": "Prêt à Porter",
+                                "url": "/shop?category=Prêt à Porter"
                             },
                             {
-                                "text": "Jewelry & Watches",
-                                "url": "/shop?category=jewelry-and-watches"
+                                "text": "Bijoux et Montres",
+                                "url": "/shop?category=bijoux-et-montres"
                             },
                             {
                                 "text": "Shop Without Banner",
@@ -180,7 +180,7 @@
                             "url": "/shop"
                         },
                         {
-                            "text": "Cellphones & Accessories",
+                            "text": "CellPrêt à Porter",
                             "url": "/shop"
                         },
                         {
@@ -222,7 +222,7 @@
         },
         {
             "icon": "icon-shirt",
-            "text": "Clothing & Apparel",
+            "text": "Prêt à Porter",
             "url": "/shop"
         },
         {
@@ -232,7 +232,7 @@
         },
         {
             "icon": "icon-heart-pulse",
-            "text": "Health & Beauty",
+            "text": "Prêt à Porter",
             "url": "/shop"
         },
         {
@@ -302,7 +302,7 @@
         },
         {
             "icon": "icon-smartphone",
-            "text": "Phones & Accessories",
+            "text": "Prêt à Porter",
             "url": "/shop"
         },
         {

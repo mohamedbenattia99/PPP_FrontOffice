@@ -5,7 +5,7 @@ import { baseUrl } from '../../../../../repositories/Repository';
 const ThumbnailImage = ({ url }) => (
     <img
         src={isStaticData === false ? `${baseUrl}${url}` : url}
-        alt="REDSYS-image"
+        alt="EASYCHIC-image"
     />
 );
 
