@@ -33,15 +33,6 @@ class ProductWidgets extends Component{
                         </a>
                     </Link>
                 </aside>
-                <aside className="widget widget_same-brand">
-                    <h3>Same Brand</h3>
-                    <div className="widget__content">
-                        {products &&
-                        products.map(product => (
-                            <Product product={product} key={product.id} />
-                        ))}
-                    </div>
-                </aside>
             </section>
         );
     }

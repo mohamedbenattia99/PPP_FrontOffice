@@ -48,7 +48,7 @@ class InformationQuickView extends Component {
                         99DT / DAY
                     </h4>
                 ) : (
-                    <h4 className="ps-product__price">${product.price}</h4>
+                    <h4 className="ps-product__price">99DT / DAY</h4>
                 )}
                 <div className="ps-product__desc">
                     <ul className="ps-list--dot">
