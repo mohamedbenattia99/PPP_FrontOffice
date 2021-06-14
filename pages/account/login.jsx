@@ -16,7 +16,6 @@ const LoginPage = () => {
             <div className="ps-page--my-account">
                <Login />
             </div>
-            <Newsletters layout="container" />
             <FooterDefault />
         </div>
     );

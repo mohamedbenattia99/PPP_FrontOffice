@@ -26,7 +26,7 @@ class SubscribePopup extends Component {
                         className="ps-popup__content bg--cover"
                         style={{
                             backgroundImage:
-                                "url('/static/img/bg/subscribe.jpg')",
+                                "url('/static/img/home.jpg')",
                         }}>
                         <a
                             className="ps-popup__close"

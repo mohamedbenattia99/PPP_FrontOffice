@@ -34,7 +34,6 @@ const PaymentPage = () => {
                 <BreadCrumb breacrumb={breadCrumb} />
                 <Payment />
             </div>
-            <Newsletters layout="container" />
             <FooterDefault />
         </div>
     );

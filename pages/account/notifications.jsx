@@ -28,7 +28,6 @@ const AccountNotificationsPage = () => {
                 <BreadCrumb breacrumb={breadCrumb} />
                 <Notifications />
             </div>
-            <Newsletters layout="container" />
             <FooterDefault />
         </div>
     );

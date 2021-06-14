@@ -13,9 +13,9 @@ const DownloadApp = () => (
                         </div>
                         <div className="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 ">
                             <div className="ps-block__content">
-                                <h3>Le LUXE est maintenant à portée de tous</h3>
+                                <h3>Le LUXE est maintenant à portée de TOUS.</h3>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                    EASYCHIC est une Startup Tunisienne basée à l'Institut National des Science Appliquées et Technologiques INSAT. Nous offrons la possibilité au grand public de louer des accesoires, des prêt à porter, des sacs et bien d'autres nécessité de luxe pour une durée limitée. Vous partez en voyage et vous ne souhaitez pas vous encombrer avec du bagage, vous avez un rendez-vous très important, ou une soirée à couper le souffle et vous comptez sortir du lot avec des éléments de luxe nous sommes arrivés pour vous sauver en vous offrant des produits de luxe seulement pour la durée de votre besoin. 
                                 </p>
                             </div>
                         </div>

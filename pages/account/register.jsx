@@ -17,7 +17,6 @@ const RegisterPage = () => {
             <div className="ps-page--my-account">
                 <Register />
             </div>
-            <Newsletters layout="container" />
             <FooterDefault />
         </div>
     );
