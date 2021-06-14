@@ -73,7 +73,7 @@ const StoreList2 = () => (
                                         325 Orchard Str, <br /> New York, United States (US)
                                     </p>
                                     <p>
-                                        <i className="icon-telephone"></i> (+053) 77-637-3300
+                                        <i className="icon-telephone"></i> (+216) 55252658
                                     </p>
                                 </figure>
                             </div>

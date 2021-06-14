@@ -1,14 +1,10 @@
 import React, { Component } from 'react';
 import Router from 'next/router';
 import { connect } from 'react-redux';
-import { Slider, Checkbox } from 'antd';
-
 import {
     getProducts,
     getTotalProducts,
-    getProductsByPrice,
     getBrands,
-    getProductsByBrand,
     getProductCategories,
     getProductsByCategory,
 } from '../../../../store/product/action';

@@ -100,32 +100,16 @@ class Product extends Component {
                     </ul>
                 </div>
                 <div className="ps-product__container">
-                    <Link href="/shop">
-                        <a className="ps-product__vendor">EasyChic Shop</a>
-                    </Link>
                     <div className="ps-product__content">
                         <Link
                             href="/product/[pid]"
                             as={`/product/${product.id}`}>
                             <a className="ps-product__title">{product.title}</a>
                         </Link>
-                        <div className="ps-product__rating">
-                            <Rating />
-                            <span>{product.ratingCount}</span>
-                        </div>
-                        {product.is_sale === true ? (
-                            <p className="ps-product__price sale">
-                                {currency ? currency.symbol : 'DT'}
-                                {formatCurrency(product.price)}
-                                <del className="ml-2">
-                                    {currency ? currency.symbol : 'DT'}
-                                    {formatCurrency(product.sale_price)}
-                                </del>
-                            </p>
-                        ) : (
+                        { (
                             <p className="ps-product__price">
-                                {currency ? currency.symbol : 'DT'}
-                                {formatCurrency(product.price)}
+                                99DT / DAY
+                                {/*{formatCurrency(product.price)}*/}
                             </p>
                         )}
                     </div>

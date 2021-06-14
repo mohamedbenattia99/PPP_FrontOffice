@@ -6,9 +6,6 @@
     > .container {
         display: flex;
         flex-flow: row nowrap;
-
-        > * {
-        }
     }
 
     &__extra {
@@ -51,10 +48,9 @@
     }
 
     .navigation__left {
-        width: 60%;
+        width: 50%;
         > a img {
-            height: 60%;
-            padding-top: 20px;
+            height: 70%;
         }
     }
 

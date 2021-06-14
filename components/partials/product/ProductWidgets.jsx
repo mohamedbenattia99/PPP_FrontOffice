@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Link from 'next/link';
-import { sameBrands } from '../../../public/static/data/product';
 import Product from '../../../components/elements/products/Product';
 import { connect } from 'react-redux';
 import { getColletionBySlug } from '../../../utilities/product-helper';
@@ -16,24 +15,15 @@ class ProductWidgets extends Component{
                         <i className="icon-network"></i> Shipping worldwide
                     </p>
                     <p>
-                        <i className="icon-3d-rotate"></i> Free 7-day return if
-                        eligible, so easy
+                        <i className="icon-3d-rotate"></i> Free Shipping
                     </p>
                     <p>
-                        <i className="icon-receipt"></i> Supplier give bills for this
-                        product.
+                        <i className="icon-receipt"></i> This Product can't be
+                        rented for more then 30 consecutive days
                     </p>
                     <p>
                         <i className="icon-credit-card"></i> Pay online or when
                         receiving goods
-                    </p>
-                </aside>
-                <aside className="widget widget_sell-on-site">
-                    <p>
-                        <i className="icon-store"></i> Sell on EASYCHIC?
-                        <Link href="/account/register">
-                            <a> Register Now !</a>
-                        </Link>
                     </p>
                 </aside>
                 <aside className="widget widget_ads">

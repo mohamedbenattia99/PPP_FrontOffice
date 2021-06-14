@@ -2,18 +2,18 @@
     "menuPrimary": {
         "menu_1": [
             {
-                "text": "Acceuil",
+                "text": "Home",
                 "url": "/"
             },
             {
-                "text": "Boutique",
+                "text": "Shop",
                 "url": "/shop",
                 "extraClass": "menu-item-has-children has-mega-menu",
                 "subClass": "sub-menu",
                 "mega": "true",
                 "megaContent": [
                     {
-                        "heading": "Catégories",
+                        "heading": "Categories",
                         "megaItems": [
                             {
                                 "text": "Prêt à Porter",
@@ -30,123 +30,26 @@
                             {
                                 "text": "Bijoux et Montres",
                                 "url": "/shop?category=bijoux-et-montres"
-                            },
-                            {
-                                "text": "Shop Without Banner",
-                                "url": "/shop/shop-sidebar-without-banner"
-                            }
-                        ]
-                    },
-                    {
-                        "heading": "Product Layout",
-                        "megaItems": [
-                            {
-                                "text": "Extended",
-                                "url": "/product/extended"
-                            }
-                        ]
-                    },
-                    {
-                        "heading": "Product Types",
-                        "megaItems": [
-                            {
-                                "text": "Simple",
-                                "url": "/product/default"
-                            },
-                            {
-                                "text": "Images Swatches",
-                                "url": "/product/11"
-                            },
-                            {
-                                "text": "Countdown",
-                                "url": "/product/countdown"
-                            },
-                            {
-                                "text": "Affiliate",
-                                "url": "/product/affiliate"
-                            },
-                            {
-                                "text": "On sale",
-                                "url": "/product/on-sale"
-                            },
-                            {
-                                "text": "Video Featured",
-                                "url": "/product/video-featured"
-                            },
-                            {
-                                "text": "Grouped",
-                                "url": "/product/groupped"
-                            },
-                            {
-                                "text": "Out Of Stock",
-                                "url": "/product/out-of-stock"
-                            }
-                        ]
-                    },
-                    {
-                        "heading": "Ecomerce Pages",
-                        "megaItems": [
-                            {
-                                "text": "Shopping Cart",
-                                "url": "/account/shopping-cart"
-                            },
-                            {
-                                "text": "Checkout",
-                                "url": "/account/checkout"
-                            },
-                            {
-                                "text": "Whishlist",
-                                "url": "/account/wishlist"
-                            },
-                            {
-                                "text": "Compare",
-                                "url": "/account/compare"
-                            },
-                            {
-                                "text": "Order Tracking",
-                                "url": "/account/order-tracking"
-                            },
-                            {
-                                "text": "My Account",
-                                "url": "/account/login"
-                            },
-                            {
-                                "text": "Login / Register",
-                                "url": "/account/login"
                             }
                         ]
                     }
                 ]
             },
             {
-                "text": "Personnaliser",
-                "url": "",
+                "text": "Our Team",
+                "url": "/page/about-us",
                 "extraClass": "menu-item-has-children has-mega-menu",
                 "subClass": "sub-menu",
-                "mega": "true",
-                "megaContent": [
-                    {
-                        "heading": "Basic Page",
-                        "megaItems": [
-                            {
-                                "text": "About Us",
-                                "url": "/page/about-us"
-                            },
-                            {
-                                "text": "Contact",
-                                "url": "/page/contact-us"
-                            },
-                            {
-                                "text": "Faqs",
-                                "url": "/page/faqs"
-                            },
-                            {
-                                "text": "404 Page",
-                                "url": "/page/page-404"
-                            }
-                        ]
-                    }
-                ]
+                "mega": "true"
+                
+            },
+             {
+                "text": "Contact",
+                "url": "/page/contact-us",
+                "extraClass": "menu-item-has-children has-mega-menu",
+                "subClass": "sub-menu",
+                "mega": "true"
+                
             }
         ]
     },

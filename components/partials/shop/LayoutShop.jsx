@@ -40,15 +40,6 @@ class LayoutShop extends Component {
                         Products found
                     </p>
                     <div className="ps-shopping__actions">
-                        <select
-                            className="ps-select form-control"
-                            data-placeholder="Sort Items">
-                            <option>Sort by latest</option>
-                            <option>Sort by popularity</option>
-                            <option>Sort by average rating</option>
-                            <option>Sort by price: low to high</option>
-                            <option>Sort by price: high to low</option>
-                        </select>
                         <div className="ps-shopping__view">
                             <p>View</p>
                             <ul className="ps-tab-list">
@@ -79,7 +70,7 @@ class LayoutShop extends Component {
                 <div className="ps-shopping__content">
                     {viewMode === true ? (
                         <div className="ps-shopping-product">
-                            <div className="row">
+                            <div className="row"> 
                                 {products && products.length > 0
                                     ? products.map((item) => (
                                           <div

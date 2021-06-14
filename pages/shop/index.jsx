@@ -53,7 +53,7 @@ class ShopDefaultPage extends React.Component {
                 url: '/',
             },
             {
-                text: 'Shop Default',
+                text: 'Shop',
             },
         ];
         return (
@@ -65,7 +65,6 @@ class ShopDefaultPage extends React.Component {
                     <BreadCrumb breacrumb={breadCrumb} layout="fullwidth" />
                     <div className="ps-container">
                         <ShopBanner />
-                        {/*<ShopBrands />*/}
                         <ShopCategories />
                         <div className="ps-layout--shop">
                             <ShopWidget />

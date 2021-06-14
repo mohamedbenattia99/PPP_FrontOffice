@@ -38,12 +38,6 @@ class InformationQuickView extends Component {
             <div className="ps-product__info">
                 <h1>{product.title}</h1>
                 <div className="ps-product__meta">
-                    <p>
-                        Brand:
-                        <Link href="/shop">
-                            <a className="ml-2 text-capitalize">{product.vendor}</a>
-                        </Link>
-                    </p>
                     <div className="ps-product__rating">
                         <Rating />
                         <span>(1 review)</span>
@@ -51,24 +45,16 @@ class InformationQuickView extends Component {
                 </div>
                 {product.is_sale === true ? (
                     <h4 className="ps-product__price sale">
-                        ${product.price} <del>${product.sale_price}</del>
+                        99DT / DAY
                     </h4>
                 ) : (
                     <h4 className="ps-product__price">${product.price}</h4>
                 )}
                 <div className="ps-product__desc">
-                    <p>
-                        Sold By:
-                        <Link href="/shop">
-                            <a>
-                                <strong> {product.vendor}</strong>
-                            </a>
-                        </Link>
-                    </p>
                     <ul className="ps-list--dot">
                         <li>
                             {' '}
-                            Unrestrained and portable active stereo speaker
+                            This is a luxurious product to be rented for a maximum of 30 consecutive days
                         </li>
                         <li> Free from the confines of wires and chords</li>
                         <li> 20 hours of portable capabilities</li>
@@ -111,38 +97,6 @@ class InformationQuickView extends Component {
                     <a className="ps-btn" href="#">
                         Buy Now
                     </a>
-                </div>
-                <div className="ps-product__specification">
-                    <Link href="/page/blank">
-                        <a className="report">Report Abuse</a>
-                    </Link>
-                    <p>
-                        <strong>SKU:</strong> SF1133569600-1
-                    </p>
-                    <p className="categories">
-                        <strong> Categories:</strong>
-                        <Link href="/shop">
-                            <a>Consumer Electronics</a>
-                        </Link>
-                        <Link href="/shop">
-                            <a>Refrigerator</a>
-                        </Link>
-                        <Link href="/shop">
-                            <a>Babies & Moms</a>
-                        </Link>
-                    </p>
-                    <p className="tags">
-                        <strong> Tags:</strong>
-                        <Link href="/shop">
-                            <a>sofa</a>
-                        </Link>
-                        <Link href="/shop">
-                            <a>technologies</a>
-                        </Link>
-                        <Link href="/shop">
-                            <a>wireless</a>
-                        </Link>
-                    </p>
                 </div>
                 <div className="ps-product__sharing">
                     <a className="facebook" href="#">
